@@ -9,3 +9,10 @@
 .md-typeset [type=checkbox]:checked+.task-list-indicator:before {
   background-color: #cbdc38;
   }
+
+:root  > * {
+  --md-primary-fg-color:        #ef4c49;
+  --md-primary-fg-color--light: #ef4c49;
+  --md-primary-fg-color--dark:  #fbd0c3;
+  --md-accent-fg-color: #fbd0c3;
+}
