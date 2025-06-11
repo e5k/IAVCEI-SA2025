@@ -1,0 +1,276 @@
+# Session 2.4: Towards Enhanced Forecasting of Volcanic Systems: Monitoring and Beyond
+
+> :fontawesome-solid-calendar-days: Monday 08:30 - 18:30
+
+> :fontawesome-solid-map: Room S160
+
+---
+
+## Talks
+
+### [The continuous volcanic activity at Semeru volcano (Indonesia) from 2014 to 2023 investigated with remote sensing data (SAR, thermal and optical) and geodetic modelling.](../blog/posts/2-4-1.md)
+:fontawesome-solid-person:  Federico Galetto^1^, Diego Reale^2^, Eugenio Sansosti^2^, Diego Coppola^3^, Matthew Pritchard^1^
+
+:fontawesome-solid-clock: Monday, 08:30 - 08:45
+
+### [Using remote sensing techniques to analyze physical dynamics and paroxysmal precursors during the 2019--2020 and 2023 eruptions at Shishaldin Volcano, Alaska](../blog/posts/2-4-2.md)
+:fontawesome-solid-person:  Andie Gomez-Patron^1^, Hannah Dietterich^2^, David Schneider^2^
+
+:fontawesome-solid-clock: Monday, 08:45 - 09:00
+
+### [Periodic dike intrusions in Kīlauea's middle East Rift Zone continue post-2018](../blog/posts/2-4-3.md)
+:fontawesome-solid-person: ^^Emily K. Montgomery-Brown^^ ^1^, Ingrid A. Johanson^2^, Andria P. Ellis^2^, and Michael P. Poland^3^
+
+:fontawesome-solid-clock: Monday, 09:00 - 09:15
+
+### [Seasonal Control on Phreatic Activity of the Crater Lake of Copahue Volcano During the 2018-2022 Eruptive Cycle](../blog/posts/2-4-4.md)
+:fontawesome-solid-person: Fabricio Carbajal^1^, ^^Sebastian Garcia^^ ^1^, Nicolas Vigide^1,2^, Gabriela Badi^1,3^, Mariano Agusto^2,4^, F. Carballo^5^.  
+
+:fontawesome-solid-clock: Monday, 09:15 - 09:30
+
+### [The July, 2024 Hydrothermal Explosion at Black Diamond Pool in Yellowstone National Park: The Scientific Response and What We've Learned](../blog/posts/2-4-5.md)
+:fontawesome-solid-person: Jamie Farrell^1^, Lauren Harrison^2^, Phillip Kondracki^2^, Mara H. Reed^3^, Jefferson D.G. Hungerford^4^, Kiernan F. Folz Donahue^4^, Michael P. Poland^5^, Alex M. Iezzi^5^
+
+:fontawesome-solid-clock: Monday, 09:30 - 09:45
+
+### [Exploring multiparametric data analyses to study volcanic activity at Stromboli from 2016 to 2024](../blog/posts/2-4-6.md)
+:fontawesome-solid-person: Alexander Garcia^1^, Lucia Zaccarelli^1^, Laura Sandri^1^, Micol Todesco^1^
+
+:fontawesome-solid-clock: Monday, 09:45 - 10:00
+
+### [Using a Damage Approach to Model Pre-Eruptive Surface Displacements and Help Forecast Volcanic Eruptions](../blog/posts/2-4-7.md)
+:fontawesome-solid-person:  Jean-Luc Got^1^, Aline Peltier^2^, Valérie Ferrazzini^2^, David Marsan^1^ 
+
+:fontawesome-solid-clock: Monday, 10:30 - 10:45
+
+### [Probabilistic forecast of Vulcanian explosions at Sakurajima volcano using statistical features of ground deformation](../blog/posts/2-4-8.md)
+:fontawesome-solid-person: ^^Kyoka Ishii^^ ^1^, Masato Iguchi^2^
+
+:fontawesome-solid-clock: Monday, 10:45 - 11:00
+
+### [Identifying dike propagation patterns at Mount Etna through forward-modelling and AI-powered ground deformation inversions](../blog/posts/2-4-9.md)
+:fontawesome-solid-person: Rebecca Bruni^1^, Erica De Paolo^2^, Deepak Garg^1^, Martina Allegra^2^, Flavio Cannavò^2^, Chiara Paola Montagna^1^, Paolo Papale^1^, Michele Carpenè^3^
+
+:fontawesome-solid-clock: Monday, 11:00 - 11:15
+
+### [Optimising timescales for machine learning-based eruption forecasting: Insights from Miyakejima Volcano, Japan](../blog/posts/2-4-10.md)
+:fontawesome-solid-person: ^^Julie De Groote^^ , Benoit Taisne, Susanna Jenkins
+
+:fontawesome-solid-clock: Monday, 11:15 - 11:30
+
+### [Lessons learned from near real-time monitoring of volcanic unrest and dike propagation/eruption forecasting in Iceland](../blog/posts/2-4-11.md)
+:fontawesome-solid-person: ^^Vincent Drouin^^ ^1^, Benedikt G. Ófeigsson^1^, Hildur M. Friðriksdóttir^1^, Michelle Parks^1^, Sigrún Hreinsdóttir^2^
+
+:fontawesome-solid-clock: Monday, 14:15 - 14:30
+
+### [Temporal Evolution of Crustal Stress and Seismicity at Volcanoes During Periods of Unrest](../blog/posts/2-4-12.md)
+:fontawesome-solid-person:  ^^Eric Newland^^ ^1,2^, Christopher Kilburn^1,2^ 
+
+:fontawesome-solid-clock: Monday, 14:30 - 14:45
+
+### [Using Low-frequency DAS Signals for Early Warning During the Sundhnúksgígur, Iceland, Eruptions in 2024 Authors/Affiliations](../blog/posts/2-4-13.md)
+:fontawesome-solid-person: ^1^Vala Hjörleifsdóttir, ^1^Hrefna Marín Gunnarsdóttir, ^2^Jiaxuan Li, ^3^Ettore Biondi, ^4^Kristín Jónsdóttir, ^4^Sara Barsotti, ^4^Einar Bessi Gestsson, ^5^Valey Kamalov,  ^3^Zhongwen Zhan
+
+:fontawesome-solid-clock: Monday, 14:45 - 15:00
+
+### [Progress in short-term eruption forecasts by the USGS-USAID Volcano Disaster Assistance Program (VDAP)](../blog/posts/2-4-14.md)
+:fontawesome-solid-person: Heather MN Wright, Jay Wellik, Sally Sennert, Stephanie G Prejean, Jeremy Pesicek, Sarah E Ogburn, Wendy McCausland, JoAnna G Marlow, ^^Jacob B Lowenstern^^ , Zac Hastings, Chris Hight
+
+:fontawesome-solid-clock: Monday, 15:00 - 15:15
+
+---
+
+## Posters
+
+### [A next generation, near-real-time volcanic eruption monitoring algorithm for use with both MODIS Aqua/Terra and SNPP VIIRS, providing continuity with the MODIS/EOS era MODVOLC system](../blog/posts/2-4-15.md)
+:fontawesome-solid-person: Nikola Rogic, Eric Pilger, Andrea Gabrieli, Robert Wright
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 225
+
+### [Hidden Markov Random Fields as scaffolding around Indigenous Knowledge at Ruapehu volcano](../blog/posts/2-4-16.md)
+:fontawesome-solid-person: ^^Melody Whitehead^^ ^1^, Mark Bebbington^1^, Jonathan Procter^1^, Hēmi Whaanga^2^, Hollei Gabrielsen^3^, Murray Lark^4^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 226
+
+### [Forecasting the position and timing of eruptive vents using a particle filter method.](../blog/posts/2-4-17.md)
+:fontawesome-solid-person: ^^Léa Zuccali^^ ^1,2^, Virginie Pinel^1^, Yajing Yan^2^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 227
+
+### [Resolving traction changes on fractures in a 3D heterogeneous crust using fictitious domains](../blog/posts/2-4-18.md)
+:fontawesome-solid-person: Dabaghi Farshid^1^, ^^Valérie Cayol^2^^^  and Bodart Olivier^1^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 228
+
+### [Strain tomography of magmatic systems](../blog/posts/2-4-19.md)
+:fontawesome-solid-person: Tim Davis^1^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 230
+
+### [The first instrumentally detected hydrothermal explosion in Yellowstone National Park](../blog/posts/2-4-20.md)
+:fontawesome-solid-person: Michael P. Poland^1^, Alex M. Iezzi^1^, Jamie Farrell^2^, R. Greg Vaughan^3^ 
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 231
+
+### [Study of the explosive eruption jets with the experimental and theoretical approaches](../blog/posts/2-4-21.md)
+:fontawesome-solid-person: Nataliya Galina, Ayuta Tsuge, Ryuki Tada, Kiwamu Nishida, Mie Ichihara
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 233
+
+### [Bridging the Gap Between Magma Conduit Models and Near-Field Ground Deformation Observations](../blog/posts/2-4-22.md)
+:fontawesome-solid-person:  Eliot Eaton, Jurgen Neuberg, Susanna Ebmeier
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 235
+
+### [Integration of satellite and ground-based thermal sensor surveys to constrain heat fluxes at hydrothermal systems: experiences from Poás and Nisyros](../blog/posts/2-4-23.md)
+:fontawesome-solid-person: ^^Sophie Pailot-Bonnétat^^ ^1^, Andrew Harris^1^, Victoria Rafflin^1,a^, Céline Bonnetain^1^, Alessio Serravalli^1^, Loÿc Vanderklyusen^2^, Jacob Brauner^2^, Christina Liu^2^, Michael Ramsey^3^ 
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 237
+
+### [Constraints on magma ascent to eruption from patterns of unrest](../blog/posts/2-4-24.md)
+:fontawesome-solid-person:  ^^Christopher Kilburn^^ ^1,3^, Deni Gowen^1,3^ & Carmen Solana^2,3^ 
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 239
+
+### [The new Daily Volcanic Activity Report: using daily volcanic event data for eruption forecasting](../blog/posts/2-4-25.md)
+:fontawesome-solid-person: ^^Sarah Ogburn^^ ^1^, JoAnna G. Marlow^1^, Zac Hastings^1^, Sally Sennert^2^, Heather Wright^1^, Ed Venzke^3^, Benjamin Andrews^3^, Chris Hight^1^, Jacob Lowenstern^1^, Kadie Bennis^3^, Gari Mayberry^4^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 241
+
+### [Resistivity: a new volcano monitoring tool?](../blog/posts/2-4-26.md)
+:fontawesome-solid-person: ^^Lore Vanhooren^1,2^^^ , Thomas Hermans^1^, Corentin Caudron^2^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 243
+
+### [Lagrangian volcanic ash transport from sea surface to seafloor following the January 15, 2022, eruption of Hunga volcano.](../blog/posts/2-4-27.md)
+:fontawesome-solid-person: ^^Marcus Chaknova,^^  Thomas Giachetti, Kristen Fauria, Liam Kelly
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 245
+
+### [Volcano monitoring challenges in an active Quaternary monogenetic volcanic province in western Saudi Arabia](../blog/posts/2-4-28.md)
+:fontawesome-solid-person: Fawaz Muqeem^1^, Abdel Rahman Al-Sweigh ^1^, Mahmoud Ashour ^1^, Khaled Abdel Hafez ^1^, Turki Habilel ^1^, Károly Németh ^1,2,3^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 246
+
+### [Forecasting the evolution of the 2021 Tajogaite eruption, La Palma, with TROPOMI/PlumeTraj-derived SO2 emission rates](../blog/posts/2-4-29.md)
+:fontawesome-solid-person: ^^Mike Burton^1,2^^^ , Ben Esse^1^, Catherine Hayer^3^, Giuseppe La Spina^2^, Ana Pardo Cofrades^1^, Maria Asensio-Ramos^4^, Jose Barrancos^4,5^, Nemesio Pérez^4,6^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 248
+
+### [Quantifying Hydrothermal Contributions to Volcanic Deformation: The 2021 Unrest of Askja Volcano](../blog/posts/2-4-30.md)
+:fontawesome-solid-person: ^^Laure Brenot^^ ^1^,Társilo Girona^2^, Hélène Le Mével^3^, Corentin Caudron^1^, Jifei Han^4^, Tom Winder^5^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 249
+
+### [Laboratory evidence for subsurface steam transport driving thermal anomalies at active volcanoes](../blog/posts/2-4-31.md)
+:fontawesome-solid-person: ^^Noé García-Martínez^^ ^1^, Társilo Girona^2^, David Benavente^1^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 251
+
+### [Monitoring microdeformations at Mount Etna: modelling, insights and interpretations of shallow magma convection and replenishment dynamics](../blog/posts/2-4-32.md)
+:fontawesome-solid-person: ^^Owen McCluskey^^ ^1^,Paolo Papale^1^, Chiara Montagna^1^, Antonella Longo^1^, Deepak Garg^1^, Joe Carthy^2^, Carmen Benitez^2^, Carolina Pagli^3^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 253
+
+### [Dyke-induced seismicity: depth-dependent acoustic emissions and strain in rock deformation experiments](../blog/posts/2-4-33.md)
+:fontawesome-solid-person: ^^Matías Clunes^^ ^1,3^, Philip Benson^2,3^, Carmen Solana^1,3^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 255
+
+### [Long-term volcano-tectonic unrest on the Reykjanes peninsula: Europe\'s unique natural laboratory for studying the depth-dependent interaction of magmatic and tectonic processes](../blog/posts/2-4-34.md)
+:fontawesome-solid-person: Thomas R. Walter^1,2^, Egill Árni Gudnason^3^, Ólafur G. Flóvenz^4^, Gylfi Páll Hersir^4^, Torsten Dahm^1,2^, Philippe Jousset^1^, Maria Hurley^1,2^, Alina V. Shevchenko^1^, Pinar Buyukakpinar^1^, Marius Isken^1^, Martin Zimmer^1^, Bettina Strauch^1^, Magnús Tumi Gudmundsson^5^, Beatrice Giuliante^1,6^, Thorbjörg Ágústsdóttir^3^, Mahdi Motagh^1^, Eva P. S. Eibl^2^, Gesa Petersen^1^, Simone Cesca^1^, Sebastian Hainzl^1^, Jana Doubravová^6^, Jan Burjánek^6^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 257
+
+### [Harnessing Public-Private Partnerships -- A Pragmatic Approach Towards Volcano Monitoring in Canada](../blog/posts/2-4-35.md)
+:fontawesome-solid-person: Glyn Williams-Jones^1^, Kevin Clark^2^, Veronica Woodruff^3^, Melanie Kelman^4^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 258
+
+### [FEVER: Forecasting Eruptions at Volcanoes after Extended Repose](../blog/posts/2-4-36.md)
+:fontawesome-solid-person: Christopher Kilburn^1^, Eric Newland^1^, Matias Clunes^2^, ^^Carmen Solana^^ ^2^, Philip Benson^1^, Erouscilla Joseph^3^, Giuseppe De Natale^4^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 260
+
+### [Short-term eruption forecasting in the next decade: A new era of high-resolution thermal infrared data](../blog/posts/2-4-37.md)
+:fontawesome-solid-person: ^^Michael Ramsey^^ ^1^, James Thompson^2^, Jean-François Smekens^3^ 
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 261
+
+### [Dike intrusion simulation in 3D stress field using discrete element method](../blog/posts/2-4-38.md)
+:fontawesome-solid-person: Eisuke Fujita
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 263
+
+### [Are there thermal precursors to eruptions detectable by satellite? Evaluating 22 years of global medium resolution satellite thermal observations at 195 erupting subaerial volcanoes](../blog/posts/2-4-39.md)
+:fontawesome-solid-person: Matthew E Pritchard^1^, ^^Andrea Gomez-Patron^^ ^1^, Hugh Peng^2^, Abigail Downes^2^, Chloe Crothers^3^, Jiada Valenza^4^, Austin Wada^5,6^, Lin Way^7^ and Laura Zapata^8^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 265
+
+### [Optimising volcano monitoring network: ensuring reliability and redundancy on data transmission Marapi case](../blog/posts/2-4-40.md)
+:fontawesome-solid-person: ^^Shaira Lee Pabalan^^ , Benoit Taisne
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 267
+
+### [Data assimilation in volcanic deformation](../blog/posts/2-4-41.md)
+:fontawesome-solid-person: Shungo Tonoyama ^1,^ Atsushi Suzuki ^2,^ Kengo Nakajima ^2,3^, Takemasa Miyoshi ^1^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 269
+
+### [Examination of the causes of geomagnetic changes observed during periods of volcanic unrest based on numerical modeling](../blog/posts/2-4-42.md)
+:fontawesome-solid-person: ^^Wataru Kanda^^ ^1^; Shunki Tamura^2,3^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 270
+
+### [Eruption probabilities from seismic data assimilation: Insights from the 2023 paroxysms of Shishaldin Volcano](../blog/posts/2-4-43.md)
+:fontawesome-solid-person: ^^Társilo Girona^^ ^1^, Kyungmin Kim^1^, Matthew Haney^2^, David Fee^1^, John Power^2^, Taryn Lopez^1^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 272
+
+### [Characterizing pre- and syn-eruptive processes at Great Sitkin Volcano, Alaska, by integrating seismic data assimilation and satellite-based thermal anomalies](../blog/posts/2-4-44.md)
+:fontawesome-solid-person: ^^Kyungmin Kim^^ ^1^, Társilo Girona^1^, Kyle Anderson^2^, John Power^3^, Xiaotao Yang^4^, Matt Haney^3^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 273
+
+### [Investigation of thermo-hydrodynamic processes preceding the different eruption styles observed in a laboratory geyser](../blog/posts/2-4-45.md)
+:fontawesome-solid-person:  Ayuta Tsuge^1^, Mie Ichihara^1^ 
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 275
+
+### [Using Cross-Entropy as a Volcanic Precursor: the case study of the 2021 Tajogaite Eruption (La Palma, Spain)](../blog/posts/2-4-46.md)
+:fontawesome-solid-person: ^^Aarón Álvarez-Hernández^4^ (aalvarez@involcan.org)^^ , Luca D'Auria^4,\ 5^ (ldauria@iter.es), Rubén García-Hernández^4^ (rgarciahernandez@involcan.org), David Martínez-van Dorth^4,\ 5^ (dmartinez@iter.es), Víctor Ortega-Ramos^4^ (victor.ortega@involcan.org), Germán D. Padilla-Hernández^4,\ 5^ (german@iter.es), Pablo Rey-Devesa^1,\ 2^ (pablord@ugr.es), Janire Prudencio^1,\ 2^ (janire@ugr.es), Manuel Titos^3^ (titos@ugr.es), Jesús Ibáñez^1,\ 2^ (jibanez@ugr.es), Carmen Benítez^3^ (carmen@ugr.es), and Nemesio M. Pérez^4,\ 5^ (nperez@iter.es)
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 276
+
+### [Do shape and size of erupted tephra reflect their porosity? An investigation of representative tephra from explosive eruptions at Mt Etna (Italy)](../blog/posts/2-4-47.md)
+:fontawesome-solid-person: ^^Alexandra Grace Lang^^ ^1^, Daniele Andronico ^2^, Simona Caruso ^2^, Rosa Anna Corsaro ^2^, Antonio Cristaldi ^2^, Mattia Pistone ^1^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 278
+
+### [Probabilistic Failure Forecast Method (FFM) of geochemical observables to forecast the time of geological events in volcanic systems](../blog/posts/2-4-48.md)
+:fontawesome-solid-person: Nemesio M. Pérez^1,2^, Luca D'Auria^1,2^, Pedro A. Hernández^1,2^, Gladys V. Melián^1,2^, Eleazar Padrón^1,2^, Germán D. Padilla^1,2^ María Asensio-Ramos^1^ and  Berverley Coldwell^1,2^  
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 279
+
+### [FEM model of surface deformation pattern applied to the Campi Flegrei caldera](../blog/posts/2-4-49.md)
+:fontawesome-solid-person: ^^ Pierdomenico Romano^^ , Bellina Di Lieto, Annarita Mangiacapra, Zaccaria Petrillo, Agata Sangianantoni
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 281
+
+### [Training deep learning networks with models integrating complex rheologies in the magmatic system: An advance to forecast time series models of volcanic deformation](../blog/posts/2-4-50.md)
+:fontawesome-solid-person: Camila Novoa Lizama, Andrew Hooper, Matthew Gaddes, Milan Lazecky, Shailza Sharma, Gopal Phartiyal, David Hogg, Susanna Ebmeier 
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 282
+
+### [A trans-dimensional inversion algorithm to model deformation sources with unconstrained shape in finite element domains](../blog/posts/2-4-51.md)
+:fontawesome-solid-person: ^^Erica De Paolo^^ ^1^, Nicola Piana Agostinetti^2^, Elisa Trasatti^3^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 283
+
+### [Volcanic unrest detection using trans-dimensional McMC: application to dike intrusion events at Mount Etna](../blog/posts/2-4-52.md)
+:fontawesome-solid-person: ^^Erica De Paolo^^ ^1^, Nicola Piana Agostinetti^2^, Flavio Cannavò^1^
+
+:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 284
+
+---
+

@@ -1,0 +1,126 @@
+site_name: Program for the 2025 IAVCEI SA
+site_url: https://e5k.github.io/IAVCEI-SA2025/
+# repo_name: e5k/IAVCEI-SA2025
+# repo_url: https://github.com/e5k/IAVCEI-SA2025/
+
+theme:
+  name: material
+  features:
+      - navigation.tabs
+      - navigation.indexes
+      - navigation.footer
+      - content.code.copy
+      - content.tabs.link
+      - toc.integrate
+      # - highlightjs
+      # - mermaid2
+      # - content.action.edit
+      # - content.action.view
+
+  logo: img/logo.svg
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - scheme: default
+      accent: red
+      primary: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      accent: red
+      primary: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Program: 
+      - sessions_comparison.md
+      - Per theme: sessions_theme.md
+      - Per day: sessions_day.md
+  - Maps: 
+      - maps.md
+      - Poster boards: map_poster_boards.md
+
+plugins:
+    - search
+    - blog
+    - meta
+    - mkdocstrings
+    # - bibtex:
+    #     bib_file: "includes/bibliography.bib"
+    #     csl_file: "includes/bibliography.cls"
+    # - mkdocs-jupyter:
+    #     execute: True
+    #     include_source: True
+    #     enabled: !ENV [CI, false]
+    # - git-committers:
+    #     repository: CERG-C/CERG-C
+    #     branch: main
+    # - encryptcontent: {}
+    # - with-pdf
+
+markdown_extensions:
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.arithmatex:
+      generic: true 
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      toc_depth: 2
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - abbr
+  - pymdownx.snippets:
+      auto_append:
+        - includes/glossary.md
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.keys
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+
+
+
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+
+# extra:
+#   social:
+#     - icon: fontawesome/brands/twitter
+#       link: https://twitter.com/VolcanoRisk
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/vharg
+extra:
+  version:
+    provider: mike
+    default: latest
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: Copyright &copy; 2025 / International Association of Volcanology and Chemistry of the Earth's Interior (IAVCEI)

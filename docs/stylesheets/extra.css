@@ -1,0 +1,11 @@
+.icn {
+    color: #cbdc38;
+  }
+
+.md-typeset {
+    text-align: justify;
+}
+
+.md-typeset [type=checkbox]:checked+.task-list-indicator:before {
+  background-color: #cbdc38;
+  }

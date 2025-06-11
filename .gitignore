@@ -1,0 +1,8 @@
+.DS_Store
+*.DS_Store
+site/
+*.html
+*.ai
+*.py
+data/
+.cache
