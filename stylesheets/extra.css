@@ -16,3 +16,10 @@
   --md-primary-fg-color--dark:  #fbd0c3;
   --md-accent-fg-color: #fbd0c3;
 }
+
+.md-nav__title.md-nav__container {
+    display: none !important;
+}
+.md-post__back {
+    display: none !important;
+}

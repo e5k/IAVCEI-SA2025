@@ -12,7 +12,7 @@
       
       
       
-        <link rel="next" href="sessions_comparison/">
+        <link rel="next" href="program/">
       
       
       <link rel="icon" href="assets/images/favicon.png">
@@ -57,7 +57,16 @@
     
     
     
-  </head>
+   <link href="assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -76,7 +85,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#hello" class="md-skip">
+        <a href="#iavcei-2025-scientific-assembly-the-energies-of-magma-from-volcanic-eruptions-and-mineral-resources-to-geothermal-production-and-sustainability" class="md-skip">
           Skip to content
         </a>
       
@@ -238,13 +247,35 @@
     
     
       <li class="md-tabs__item">
-        <a href="sessions_comparison/" class="md-tabs__link">
+        <a href="program/" class="md-tabs__link">
           
   
   
     
   
   Program
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="social/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Social
 
         </a>
       </li>
@@ -386,6 +417,8 @@
       
         
       
+        
+      
     
     
     
@@ -404,7 +437,7 @@
   
   
   
-    <a href="sessions_comparison/" class="md-nav__link">
+    <a href="program/" class="md-nav__link">
       
   
   
@@ -433,6 +466,64 @@
   
     
     
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="social/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Social
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
       
         
       
@@ -511,8 +602,11 @@
 
 
 
-<p><img alt="Iavcei" src="img/IAVCEI2025_Banner.png" width="100%" /></p>
-<h1 id="hello">Hello</h1>
+<p><a class="glightbox" href="img/IAVCEI2025_Banner.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Iavcei" src="img/IAVCEI2025_Banner.png" width="100%" /></a></p>
+<h1 id="iavcei-2025-scientific-assembly-the-energies-of-magma-from-volcanic-eruptions-and-mineral-resources-to-geothermal-production-and-sustainability"><strong>IAVCEI 2025 Scientific Assembly</strong>: The energies of magma: From volcanic eruptions and mineral resources to geothermal production and sustainability</h1>
+<p>Welcome to the scientific program of the 2025 IAVCEI Scientific Assembly. This website will be updated during the following week, but you can already check out the <a href="sessions_comparison/">session program here</a>.</p>
+<hr />
+<p><a class="glightbox" href="img/sponsors.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="sponsors" src="img/sponsors.png" width="100%" /></a></p>
 
 
 
@@ -545,13 +639,13 @@
         
         
           
-          <a href="sessions_comparison/" class="md-footer__link md-footer__link--next" aria-label="Next: Daily talk schedule">
+          <a href="program/" class="md-footer__link md-footer__link--next" aria-label="Next: Scientific program of the conference">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Next
               </span>
               <div class="md-ellipsis">
-                Daily talk schedule
+                Scientific program of the conference
               </div>
             </div>
             <div class="md-footer__button md-icon">
@@ -605,5 +699,7 @@
         <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
-  </body>
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
 </html>
