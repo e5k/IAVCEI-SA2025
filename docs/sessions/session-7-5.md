@@ -1,156 +1,168 @@
+---
+search:
+  exclude: true
+---
+
 # Session 7.5: Open volcanology: open science initiatives for sharing data, tools, technology, and research
 
-> :fontawesome-solid-calendar-days: Friday 14:15 - 18:00
+> :fontawesome-solid-users: **Talks**:
 
-> :fontawesome-solid-map: Room R290
+> - :fontawesome-solid-calendar-days: [Friday 14:15 - 16:30](../sessions_comparison.md#__tabbed_4_4)
+> - :fontawesome-solid-map: [Room R290](../maps_venue.md#__tabbed_1_1)
+
+> :fontawesome-solid-person-chalkboard: **Posters**:
+
+> - :fontawesome-solid-calendar-days: [Friday 16:30 - 18:00](../sessions_comparison.md#__tabbed_4_6)
+> - :fontawesome-solid-map: [Room R290](../maps_venue.md#__tabbed_1_1)
 
 ---
 
-## Talks
+## :fontawesome-solid-users: Talks
 
-### [Breaking Silos: Collaborative Pathways in Volcanological Technology Development (Invited)](../blog/posts/7-5-1.md)
+### [Breaking Silos: Collaborative Pathways in Volcanological Technology Development (Invited)](../abstracts/7-5-1.md)
 :fontawesome-solid-person: Debra Parcheta
 
 :fontawesome-solid-clock: Friday, 14:15 - 14:30
 
-### [Development of Volcanic Hazards Information System in Geological Survey of Japan](../blog/posts/7-5-2.md)
+### [Development of Volcanic Hazards Information System in Geological Survey of Japan](../abstracts/7-5-2.md)
 :fontawesome-solid-person: Shinji Takarada^1^, Joel Bandibas^1^, Yuhki Kohno^1^, Emi Kariya^1^ and Misato Osada^1,2^
 
 :fontawesome-solid-clock: Friday, 14:30 - 14:45
 
-### [Integrating Standardized Volcano Monitoring Data into WOVOdat (Invited)](../blog/posts/7-5-3.md)
-:fontawesome-solid-person:  ^^Christina Widiwijayanti^1^^^ , Benoit Taisne^1,2^, Fidel Costa^3^, Nang T.Z. Win^1^, Tania Espinosa-Ortega^1^, Christopher G. Newhall^4^, Antonius Ratdomopurbo^5^, and WOVO observatories 
+### [Integrating Standardized Volcano Monitoring Data into WOVOdat (Invited)](../abstracts/7-5-3.md)
+:fontawesome-solid-person: ^^Christina Widiwijayanti^1^^^ , Benoit Taisne^1,2^, Fidel Costa^3^, Nang T.Z. Win^1^, Tania Espinosa-Ortega^1^, Christopher G. Newhall^4^, Antonius Ratdomopurbo^5^, and WOVO observatories
 
 :fontawesome-solid-clock: Friday, 14:45 - 15:00
 
-### [The Volcanology Infrastructure for Computational Tools and Resources (VICTOR) (Invited)](../blog/posts/7-5-4.md)
+### [The Volcanology Infrastructure for Computational Tools and Resources (VICTOR) (Invited)](../abstracts/7-5-4.md)
 :fontawesome-solid-person: ^^Sylvain J. Charbonnier^1^^^ , Einat Lev^2^, Sam Krasnoff^2^, Abani Patra^3^, Charles Connor^1^, Amelia Mullins^2^
 
 :fontawesome-solid-clock: Friday, 15:00 - 15:15
 
-### [Breaking barriers in science: Insights from Latin America's Volcano Observatories dual-language Special Issue (Invited)](../blog/posts/7-5-5.md)
-:fontawesome-solid-person:  Oryaëlle Chevrel^\1,2,3^, Pablo Forte^4^ 
+### [Breaking barriers in science: Insights from Latin America's Volcano Observatories dual-language Special Issue (Invited)](../abstracts/7-5-5.md)
+:fontawesome-solid-person: Oryaëlle Chevrel^\1,2,3^, Pablo Forte^4^
 
 :fontawesome-solid-clock: Friday, 15:45 - 16:00
 
-### [FAIR access to geoscientific data from Iceland on the EPOS Data Portal](../blog/posts/7-5-6.md)
+### [FAIR access to geoscientific data from Iceland on the EPOS Data Portal](../abstracts/7-5-6.md)
 :fontawesome-solid-person: ^^Ríkey Júlíusdóttir^^ ^1^, Kristín Vogfjörd^1^, Magnús T. Guðmundsson^2^, María H. Guðmundsdóttir^3^, Þorbjörg Ágústsdóttir^4^, Kjartan A. Jónsson^1^, Hildur M. Friðriksdóttir^1^, Þórdís Högnadóttir^2^
 
 :fontawesome-solid-clock: Friday, 16:00 - 16:15
 
-### [Meeting the public where they are at by creating accessible resources with familiar tools](../blog/posts/7-5-7.md)
+### [Meeting the public where they are at by creating accessible resources with familiar tools](../abstracts/7-5-7.md)
 :fontawesome-solid-person: ^^Ajay Wynne Jones^^ ^1^, Sharon Backhouse^1^, Natalia Puche-Polo^2^, Sergio Alfaya^3^, Alexis Schwartz^1, ^Richard Brown^4^, and Dávila-Harris^5^
 
 :fontawesome-solid-clock: Friday, 16:15 - 16:30
 
 ---
 
-## Posters
+## :fontawesome-solid-person-chalkboard: Posters
 
-### [Data and service management of the EPOS Volcano Observations Thematic Core Service by the European volcanological community](../blog/posts/7-5-8.md)
-:fontawesome-solid-person: Letizia Spampinato^1^, Enrico Indovina^1^, Adelina Geyer^2^, Ríkey Júlíusdóttir^3^, Danilo Reitano^1^ Giuseppe Puglisi^1^ Rosella Nave^4^, Ileana Santangelo^4^, Kristín Vogfjörd^3^, Philippe Labazuy^5^, Lucia Cacciola^1^, Itahiza Domínguez-Cerdeña^6^, Yannick Guehenneux^5^, Jean-Christophe Komorowski^7^, Jean-Marie Saurel^7^ 
+### [Data and service management of the EPOS Volcano Observations Thematic Core Service by the European volcanological community](../abstracts/7-5-8.md)
+:fontawesome-solid-person: Letizia Spampinato^1^, Enrico Indovina^1^, Adelina Geyer^2^, Ríkey Júlíusdóttir^3^, Danilo Reitano^1^ Giuseppe Puglisi^1^ Rosella Nave^4^, Ileana Santangelo^4^, Kristín Vogfjörd^3^, Philippe Labazuy^5^, Lucia Cacciola^1^, Itahiza Domínguez-Cerdeña^6^, Yannick Guehenneux^5^, Jean-Christophe Komorowski^7^, Jean-Marie Saurel^7^
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 57
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [57](../map_poster_boards.md#friday)
 
-### [Unleashing the Power of Open Data: Lessons from History and Paths Forward](../blog/posts/7-5-9.md)
+### [Unleashing the Power of Open Data: Lessons from History and Paths Forward](../abstracts/7-5-9.md)
 :fontawesome-solid-person: Debra Parcheta
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 58
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [58](../map_poster_boards.md#friday)
 
-### [The Geohazard Digital Twin Component as a means for Open Science in Volcanology](../blog/posts/7-5-10.md)
+### [The Geohazard Digital Twin Component as a means for Open Science in Volcanology](../abstracts/7-5-10.md)
 :fontawesome-solid-person: Hugues Brenot^1^, Simone Atzori^2^, Christian Bignami^2^, Fabrice Brito^3^, Annalisa Cappello^2^, Stefano Corradini^2^, Arnau Folch^4^, Michael Foumelis^5^, Daniela Fucilla^2^, Gaetana Ganci^2^, Pedro Gonçalves^3^, Francesco Guglielmino^2^, Luca Merucci^2^, Leonardo Mingari^4^, Fabrizio Pacini^3^, Francesca Silverli^2^, Cristiano Tolomei^2^, Nicolas Theys^1^, Elisa Trasatti^2^, Salvatore Stramondo^2^
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 60
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [60](../map_poster_boards.md#friday)
 
-### [Tephra: from reconstructing past eruptions to forecasting and modelling future events -- A Special Publication](../blog/posts/7-5-11.md)
-:fontawesome-solid-person:  ^^Alastair G. E. Hodgetts^^ ^1^, Thomas J. Aubry^2^, Samantha L. Engwell^3^, Paul A. Jarvis^4^, Britta J. L. Jensen^5^ 
+### [Tephra: from reconstructing past eruptions to forecasting and modelling future events -- A Special Publication](../abstracts/7-5-11.md)
+:fontawesome-solid-person: ^^Alastair G. E. Hodgetts^^ ^1^, Thomas J. Aubry^2^, Samantha L. Engwell^3^, Paul A. Jarvis^4^, Britta J. L. Jensen^5^
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 61
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [61](../map_poster_boards.md#friday)
 
-### [WOVOdat Web Service Data Retrieval System for Comprehensive Volcano Monitoring](../blog/posts/7-5-12.md)
+### [WOVOdat Web Service Data Retrieval System for Comprehensive Volcano Monitoring](../abstracts/7-5-12.md)
 :fontawesome-solid-person: ^^Nang Thin Zar Win^^ ^1^, Christina Widiwijayanti^1^, Tania Espinosa-Ortega^1^, Julie De Groote ^2^, Benoit Taisne^1,2^
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 62
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [62](../map_poster_boards.md#friday)
 
-### [Results of round-table discussions on the future of Volcanic and Igneous Plumbing System research](../blog/posts/7-5-13.md)
+### [Results of round-table discussions on the future of Volcanic and Igneous Plumbing System research](../abstracts/7-5-13.md)
 :fontawesome-solid-person: ^^Janine L. Kavanagh^^ ^1^, Katy J. Chamberlain^1^, John Browning^2^, Catherine Annen^3^
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 64
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [64](../map_poster_boards.md#friday)
 
-### [Teaching LAHARZ at CSAV is quicker with VICTOR: using the cloud-based VICTOR platform for an international lahar modeling course](../blog/posts/7-5-14.md)
-:fontawesome-solid-person:  ^^Sarah Ogburn^^ ^1^, Sam Krasnoff^2^, Keith Blair^3^ 
+### [Teaching LAHARZ at CSAV is quicker with VICTOR: using the cloud-based VICTOR platform for an international lahar modeling course](../abstracts/7-5-14.md)
+:fontawesome-solid-person: ^^Sarah Ogburn^^ ^1^, Sam Krasnoff^2^, Keith Blair^3^
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 65
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [65](../map_poster_boards.md#friday)
 
-### [Network for Observation of Volcanic and Atmospheric Change (NOVAC): Community technology development and implementation for volcanic gas monitoring](../blog/posts/7-5-15.md)
+### [Network for Observation of Volcanic and Atmospheric Change (NOVAC): Community technology development and implementation for volcanic gas monitoring](../abstracts/7-5-15.md)
 :fontawesome-solid-person: ^^Christoph Kern^^ ^1^, Santiago Arellano^2^, Zoraida Chacon^3^, Christopher Hight^1^, Mattias Johansson^4^, Manne Kihlman^5^, Allan Lerner^1^, Christopher Lockett^1^, Agnes Mazot^6^, Maarten de Moor^7^, and the NOVAC Community.
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 66
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [66](../map_poster_boards.md#friday)
 
-### [Experiences with open volcano monitoring data at GeoNet, Aotearoa New Zealand](../blog/posts/7-5-16.md)
+### [Experiences with open volcano monitoring data at GeoNet, Aotearoa New Zealand](../abstracts/7-5-16.md)
 :fontawesome-solid-person: Jonathan B. Hanson^1^, ^^Steven Sherburn^^ ^2^, Yannik Behr^2^, Karen M. Britten^2^, Ery C. Hughes^1^, Paul A. Jarvis^1^, Oliver D. Lamb^2^, Agnes Mazot^2^, Bradley J. Scott^2^, Nico Fournier^2^, Volcano Monitoring Group^1,2^, GeoNet team^1,2^
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 67
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [67](../map_poster_boards.md#friday)
 
-### [How we improved FAIR for volcano monitoring data at GeoNet, Aotearoa New Zealand](../blog/posts/7-5-17.md)
+### [How we improved FAIR for volcano monitoring data at GeoNet, Aotearoa New Zealand](../abstracts/7-5-17.md)
 :fontawesome-solid-person: ^^Steven Sherburn^2^^^ , Jonathan B Hanson^1^, Elisabetta D'Anastasio^1^, Mel Duncan^1^, Science Operations and Data team^1,2^, GeoNet team^1,2^
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 69
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [69](../map_poster_boards.md#friday)
 
-### [Management of the Volcanological Data: An overview](../blog/posts/7-5-18.md)
+### [Management of the Volcanological Data: An overview](../abstracts/7-5-18.md)
 :fontawesome-solid-person: Giuseppe Puglisi ^(1)^; Benjamin Andrews ^(2)^; Silvia Massaro ^(3)^; Christina Widiwijayanti ^(4)^
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 70
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [70](../map_poster_boards.md#friday)
 
-### [Global Perspectives on Volcano Monitoring: Automation, Standardization, and Capacity Building](../blog/posts/7-5-19.md)
+### [Global Perspectives on Volcano Monitoring: Automation, Standardization, and Capacity Building](../abstracts/7-5-19.md)
 :fontawesome-solid-person: ^^Benoit Taisne^^ ^1,2^, Christina Widiwijayanti^1^, Nang T.Z. Win^1^, Tania Espinosa-Ortega^1^, Andika Bayu Aji^3^, Elise Gandon^4^, Diane Rochet^4^, Herbian H. Prabowo^2^
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 71
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [71](../map_poster_boards.md#friday)
 
-### [Enhanced global monitoring of volcanic plumes through integration of LEO and GEO retrievals to support volcanic observatories and aviation stakeholders](../blog/posts/7-5-20.md)
+### [Enhanced global monitoring of volcanic plumes through integration of LEO and GEO retrievals to support volcanic observatories and aviation stakeholders](../abstracts/7-5-20.md)
 :fontawesome-solid-person: Hugues Brenot^1^, Nicolas Theys^1^, Jeroen van Gent^1^, Martina M. Friedrich^1^, Pierre de Buyl^2^, Lieven Clarisse^3^, Nicolas Clerbaux^2^, and Michel Van Roozendael^1^
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 72
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [72](../map_poster_boards.md#friday)
 
-### [On the use of dense seismic deployment and data processing at volcanoes; a collaborative effort](../blog/posts/7-5-21.md)
-:fontawesome-solid-person: C. Caudron^1^; T. Lecocq^2^;A. Ardid^3^; D. Dempsey^3^; J. Soubestre^4^; M.C. Reiss^5^; B. Taisne^6^; Alec Yates^1^; Laure Brenot^1^; Jonas Patzel^1^; Olivier Fontaine^1^; Lore Vanhoren^1^; Julien Govoorts^1^; Ben Roche^1^; Ovsicori team and IMO team 
+### [On the use of dense seismic deployment and data processing at volcanoes; a collaborative effort](../abstracts/7-5-21.md)
+:fontawesome-solid-person: C. Caudron^1^; T. Lecocq^2^;A. Ardid^3^; D. Dempsey^3^; J. Soubestre^4^; M.C. Reiss^5^; B. Taisne^6^; Alec Yates^1^; Laure Brenot^1^; Jonas Patzel^1^; Olivier Fontaine^1^; Lore Vanhoren^1^; Julien Govoorts^1^; Ben Roche^1^; Ovsicori team and IMO team
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 73
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [73](../map_poster_boards.md#friday)
 
-### [Volcanological Software as a Service to the community](../blog/posts/7-5-22.md)
+### [Volcanological Software as a Service to the community](../abstracts/7-5-22.md)
 :fontawesome-solid-person: ^^Chiara P. Montagna^^ , Tomaso Esposti Ongaro, Francesco Martinelli, Federico Brogi, Simone Colucci, Mattia de\' Michieli Vitturi
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 74
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [74](../map_poster_boards.md#friday)
 
-### [Gales: an open-source volcano simulation toolbox](../blog/posts/7-5-23.md)
+### [Gales: an open-source volcano simulation toolbox](../abstracts/7-5-23.md)
 :fontawesome-solid-person: ^^Deepak Garg^1^^^ ,  Antonella Longo^1^,  Paolo Papale^1^, Michael Redenti^2^, Michele Carpenè^2^, Alessandro Masini^2^
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 75
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [75](../map_poster_boards.md#friday)
 
-### [A streamlined tephra inversion workflow in the cloud with VICTOR](../blog/posts/7-5-24.md)
+### [A streamlined tephra inversion workflow in the cloud with VICTOR](../abstracts/7-5-24.md)
 :fontawesome-solid-person: Qingyuan Yang, Jim Yang, Samuel Krasnoff, Einat Lev
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 76
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [76](../map_poster_boards.md#friday)
 
-### [Update on the Tephra Information Portal (TIP)](../blog/posts/7-5-25.md)
-:fontawesome-solid-person:  ^^Kristi Wallace^^ ^1^, Stephen Kuehn^2^, Kerstin Lehnert^3^, Lucia Profeta^3^, Andrei Kurbatov^4^ 
+### [Update on the Tephra Information Portal (TIP)](../abstracts/7-5-25.md)
+:fontawesome-solid-person: ^^Kristi Wallace^^ ^1^, Stephen Kuehn^2^, Kerstin Lehnert^3^, Lucia Profeta^3^, Andrei Kurbatov^4^
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 77
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [77](../map_poster_boards.md#friday)
 
-### [Tephra Fusion 2.0 - Creating the future of FAIR tephra data](../blog/posts/7-5-26.md)
+### [Tephra Fusion 2.0 - Creating the future of FAIR tephra data](../abstracts/7-5-26.md)
 :fontawesome-solid-person: ^^Stephen Kuehn^^ ^1^,  Kristi Wallace^2^, Kerstin Lehnert^3^, Andrei Kurbatov^4^, Lucia Profeta^3^
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 78
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [78](../map_poster_boards.md#friday)
 
-### [Enabling Open Volcanology With Community-driven Services for Open & FAIR Data and Samples](../blog/posts/7-5-27.md)
+### [Enabling Open Volcanology With Community-driven Services for Open & FAIR Data and Samples](../abstracts/7-5-27.md)
 :fontawesome-solid-person: Kerstin Lehnert^1^, Lucia Profeta^1^
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 79
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [79](../map_poster_boards.md#friday)
 
-### [Open Science in Chilean Patagonia: Enhancing the Volcanic Context through Collaboration and Communication in Patagonia, a Region of Extremes](../blog/posts/7-5-28.md)
+### [Open Science in Chilean Patagonia: Enhancing the Volcanic Context through Collaboration and Communication in Patagonia, a Region of Extremes](../abstracts/7-5-28.md)
 :fontawesome-solid-person: Andrea Aguilar Sánchez^1^
 
-:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: Poster Board Number 80
+:fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [80](../map_poster_boards.md#friday)
 
 ---
 
+![Footer](../img/footer.png){  style="transform: translateY(35px);" }

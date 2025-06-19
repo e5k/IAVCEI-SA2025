@@ -11,7 +11,11 @@ theme:
       - navigation.footer
       - content.code.copy
       - content.tabs.link
-      - toc.integrate
+      - navigation.path
+      - navigation.prune
+      - navigation.instant
+      - navigation.instant.progress
+      # - toc.integrate
       # - highlightjs
       # - mermaid2
       # - content.action.edit
@@ -22,33 +26,131 @@ theme:
     repo: fontawesome/brands/github
   palette:
     - scheme: default
-      accent: red
-      primary: deep orange
+      accent: custom
+      primary: custom
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
     - scheme: slate
-      accent: red
-      primary: deep orange
+      accent: custom
+      primary: custom
       toggle:
         icon: material/weather-night
         name: Switch to light mode
 
 nav:
-  - Home: index.md
-  - Program: 
-      - sessions_comparison.md
-      - Per theme: sessions_theme.md
-      - Per day: sessions_day.md
+  - Home: 
+      - index.md
+  - Program:
+      - program.md
+      - Scientific sessions:
+            - sessions_comparison.md
+            - Per day: sessions_day.md
+            - Per theme:
+                - sessions_theme.md
+                - Theme 1:
+                    - theme1.md
+                    - Session 1.1: sessions/session-1-1.md
+                    - Session 1.2: sessions/session-1-2.md
+                    - Session 1.3: sessions/session-1-3.md
+                    - Session 1.4: sessions/session-1-4.md
+                    - Session 1.5: sessions/session-1-5.md
+                    - Session 1.6: sessions/session-1-6.md
+                    - Session 1.7: sessions/session-1-7.md
+                    - Session 1.8: sessions/session-1-8.md
+                    - Session 1.9: sessions/session-1-9.md
+                - Theme 2:
+                    - theme2.md
+                    - Session 2.1: sessions/session-2-1.md
+                    - Session 2.2: sessions/session-2-2.md
+                    - Session 2.3: sessions/session-2-3.md
+                    - Session 2.4: sessions/session-2-4.md
+                - Theme 3:
+                    - theme3.md
+                    - Session 3.1: sessions/session-3-1.md
+                    - Session 3.2: sessions/session-3-2.md
+                    - Session 3.3: sessions/session-3-3.md
+                    - Session 3.4: sessions/session-3-4.md
+                    - Session 3.5: sessions/session-3-5.md
+                    - Session 3.6: sessions/session-3-6.md
+                    - Session 3.7: sessions/session-3-7.md
+                    - Session 3.8: sessions/session-3-8.md
+                    - Session 3.9: sessions/session-3-9.md
+                    - Session 3.10: sessions/session-3-10.md
+                    - Session 3.11: sessions/session-3-11.md
+                    - Session 3.12: sessions/session-3-12.md
+                    - Session 3.13: sessions/session-3-13.md
+                    - Session 3.14: sessions/session-3-14.md
+                    - Session 3.15: sessions/session-3-15.md
+                    - Session 3.16: sessions/session-3-16.md
+                    - Session 3.17: sessions/session-3-17.md
+                - Theme 4:
+                    - theme4.md
+                    - Session 4.1: sessions/session-4-1.md
+                - Theme 5:
+                    - theme5.md
+                    - Session 5.1: sessions/session-5-1.md
+                - Theme 6:
+                    - theme6.md
+                    - Session 6.1: sessions/session-6-1.md
+                    - Session 6.2: sessions/session-6-2.md
+                    - Session 6.3: sessions/session-6-3.md
+                    - Session 6.4: sessions/session-6-4.md
+                    - Session 6.5: sessions/session-6-5.md
+                    - Session 6.6: sessions/session-6-6.md
+                    - Session 6.7: sessions/session-6-7.md
+                    - Session 6.8: sessions/session-6-8.md
+                - Theme 7:
+                    - theme7.md
+                    - Session 7.1: sessions/session-7-1.md
+                    - Session 7.2: sessions/session-7-2.md
+                    - Session 7.3: sessions/session-7-3.md
+                    - Session 7.4: sessions/session-7-4.md
+                    - Session 7.5: sessions/session-7-5.md
+                - Theme 8:
+                    - theme8.md
+                    - Session 8.1: sessions/session-8-1.md
+      - Keynote talks: keynotes.md
+      - Workshops:
+            - workshops.md
+            - Workshop 1: workshop1.md
+            - Workshop 2: workshop2.md
+            - Workshop 3: workshop3.md
+            - Workshop 5: workshop5.md
+            - Workshop 6: workshop6.md
+            - Workshop 7: workshop7.md
+            - Workshop 8: workshop8.md
+            - Workshop 9: workshop9.md
+            - Workshop 10: workshop10.md
+            - Workshop 11: workshop11.md
+            - Workshop 13: workshop13.md
+            - Workshop 14: workshop14.md
+            - Workshop 15: workshop15.md
+            - Workshop 16: workshop16.md
+            - Workshop 17: workshop17.md
+            - Workshop 18: workshop18.md
+      - Commissions meetings: commissions.md    
+
+  - Social:
+      - social/index.md
+      - Movie night: social/movie-night.md
+      - SciCom demonstrations: social/demonstrations.md
+      # - blog/categories.md
   - Maps: 
       - maps.md
+      - Around Geneva: maps_geneva.md
+      - Conference venue: maps_venue.md
       - Poster boards: map_poster_boards.md
 
 plugins:
     - search
-    - blog
+    - blog:
+        post_date_format: medium
+        post_url_format: "{categories}/{slug}"
     - meta
     - mkdocstrings
+    - tags
+    - glightbox
     # - bibtex:
     #     bib_file: "includes/bibliography.bib"
     #     csl_file: "includes/bibliography.cls"

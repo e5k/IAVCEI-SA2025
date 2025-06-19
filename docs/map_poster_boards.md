@@ -15,3 +15,5 @@
 ## Friday
 
 ![posters_Friday](img/IAVCEI25_Poster_map_Friday.png){ width="100%" }
+
+![Footer](img/footer.png){  style="transform: translateY(35px);" }
