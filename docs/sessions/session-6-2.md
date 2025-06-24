@@ -44,7 +44,7 @@ search:
 
 :fontawesome-solid-clock: Tuesday, 09:30 - 09:45
 
-### [Comparing hydrothermal responses to eruption on submarine arc volcanoes and mid-ocean ridges.](../abstracts/6-2-6.md)
+### [WITHDRAWN -Comparing hydrothermal responses to eruption on submarine arc volcanoes and mid-ocean ridges.](../abstracts/6-2-6.md)
 :fontawesome-solid-person: David A. Butterfield
 
 :fontawesome-solid-clock: Tuesday, 09:45 - 10:00

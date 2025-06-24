@@ -113,7 +113,7 @@ search:
 
 :fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [109](../map_poster_boards.md#friday)
 
-### [Using the value chain approach in Samoa to assess and prioritise multi-hazard early warning system vulnerabilities](../abstracts/6-7-19.md)
+### [WITHDRAWN -Using the value chain approach in Samoa to assess and prioritise multi-hazard early warning system vulnerabilities](../abstracts/6-7-19.md)
 :fontawesome-solid-person: Andrew Tupper^1,\ 2^, Afa'ese Luteru Tuvale^3^
 
 :fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [111](../map_poster_boards.md#friday)

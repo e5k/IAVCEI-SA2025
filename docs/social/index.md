@@ -17,6 +17,17 @@ slug: social
 
 ---
 
+## Monday-Sunday
+
+### [Exhibition "The Earth's Fire, a human adventure"!](exhibition.md)
+
+- :fontawesome-solid-calendar-days: All week
+- :fontawesome-solid-clock: From 7:30 to 19:00 (Sunday from 14:30 to 17:00)
+- :fontawesome-solid-map: [66 Boulevard Carl Vogt, 1205 Geneva](https://maps.app.goo.gl/T5vFA68Hxou2CYZ96) (2 blocks from the Conference building)
+
+
+--- 
+
 ## Monday-Friday
 
 ### [SciCom demonstrations](demonstrations.md)
@@ -25,17 +36,20 @@ slug: social
 - :fontawesome-solid-clock: 12:00 – 17h00
 - :fontawesome-solid-map: [UniMail (congress venue)](https://maps.app.goo.gl/uksXmZmqXUm5Qwqc9), [Esplanade](../maps_venue.md#__tabbed_1_1)
 
+--- 
 
 ## Monday
 
 ### **ECR Night**
 
-- :fontawesome-solid-calendar-days: June 39, 2025
+- :fontawesome-solid-calendar-days: June 30, 2025
 - :fontawesome-solid-clock: 19:00 – 21h00
 - :fontawesome-solid-map: [UniMail (congress venue)](https://maps.app.goo.gl/uksXmZmqXUm5Qwqc9), [Room R380](../maps_venue.md#__tabbed_3_3)
 
-### **Illumination of the Jet d'Eau**
+### [**Illumination of the Jet d'Eau**](jetdeau.md)
 
+- :fontawesome-solid-calendar-days: Monday June 30, 2025
+- :fontawesome-solid-clock: 21:30 – 23h00
 
 ---
 
@@ -44,11 +58,9 @@ slug: social
 
 ### **[Volcano Movie Night](movie-night.md)**
 
-More info coming soon!
-
-<!-- - :fontawesome-solid-calendar-days: July 1, 2025
-- :fontawesome-solid-clock: 19:00 – 21h00
-- :fontawesome-solid-map: [UniMail (congress venue)](https://maps.app.goo.gl/uksXmZmqXUm5Qwqc9), Room MR380 -->
+- :fontawesome-solid-calendar-days: July 1, 2025
+- :fontawesome-solid-clock: 20:00 – 23h00
+- :fontawesome-solid-map: [UniMail (congress venue)](https://maps.app.goo.gl/uksXmZmqXUm5Qwqc9), Room MR380
 
 ---
 
@@ -76,7 +88,9 @@ More info coming soon!
 
 ### **IAVCEI Meeting of Members including Awards Ceremony**
 
-Attendance to the closing party requires registration!
+!!! warning "Registration"
+
+    Attendance to the closing party requires registration!
 
 - :fontawesome-solid-calendar-days: July 4, 2025
 - :fontawesome-solid-clock: 19:30 – 02h00

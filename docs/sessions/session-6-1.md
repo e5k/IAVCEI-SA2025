@@ -63,7 +63,7 @@ search:
 
 :fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [2](../map_poster_boards.md#monday)
 
-### [Clinopyroxene rim geochemistry: A new tephrochronological tool in maar-lake sediments of the Eifel, Germany.](../abstracts/6-1-9.md)
+### [Clinopyroxene rim geochemistry: A tephrochronological proxy in maar-lake sediments of the Eifel, Germany](../abstracts/6-1-9.md)
 :fontawesome-solid-person: ^^Frederik Krebsbach,^^  Roman Botcharnikov, Regina Mertz-Kraus, Stephan Buhre, Frank Sirocko
 
 :fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [3](../map_poster_boards.md#monday)

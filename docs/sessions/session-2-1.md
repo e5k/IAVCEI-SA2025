@@ -10,32 +10,17 @@ search:
 
 > :fontawesome-solid-users: **Talks**:
 
-> - :fontawesome-solid-calendar-days: [Thursday 15:45 - 16:30](../sessions_comparison.md#__tabbed_3_3), [Friday 10:30 - 16:30](../sessions_comparison.md#__tabbed_4_2)
-> - :fontawesome-solid-map: [Room R280](../maps_venue.md#__tabbed_1_1)
+> - :fontawesome-solid-calendar-days: [Friday 10:30 - 16:30](../sessions_comparison.md#__tabbed_4_2), [Thursday 15:45 - 16:30](../sessions_comparison.md#__tabbed_3_3)
+> - :fontawesome-solid-map: [Room S160](../maps_venue.md#__tabbed_1_2)
 
 > :fontawesome-solid-person-chalkboard: **Posters**:
 
 > - :fontawesome-solid-calendar-days: [Thursday 16:30 - 18:30](../sessions_comparison.md#__tabbed_3_6)
-> - :fontawesome-solid-map: [Room R280](../maps_venue.md#__tabbed_1_1)
+> - :fontawesome-solid-map: [Room S160](../maps_venue.md#__tabbed_1_2)
 
 ---
 
 ## :fontawesome-solid-users: Talks
-
-### [Explosions in the Sky: Seismo-acoustic and crowdsourced observations of the 2022 eruption of Hunga volcano from across Aotearoa New Zealand](../abstracts/2-1-1.md)
-:fontawesome-solid-person: ^^Oliver Lamb^^ ^1^, Mary Anne Clive^2^, Rachel Lawson^2^, Sally Potter^2^, Geoff Kilgour^1^, Paul A. Jarvis^3^, Sara Harrison^3^, Brad Scott^1^, Danielle Charlton^2^
-
-:fontawesome-solid-clock: Thursday, 15:45 - 16:00
-
-### [Template matching for identification of hydro-acoustic signals to monitor underwater eruptions](../abstracts/2-1-2.md)
-:fontawesome-solid-person: ^^Lise Retailleau^1,2^^^ , Michel Frangieh^1,2,^ Jean-Marie Saurel^1^, Valérie Ferrazzini^1,2^
-
-:fontawesome-solid-clock: Thursday, 16:00 - 16:15
-
-### [From Geysers to Volcanoes: Connecting Fountain Dynamics with Acoustic and Electrical Signatures](../abstracts/2-1-3.md)
-:fontawesome-solid-person: ^^Julia E. Gestrich^1^^^ , Corrado Cimarelli^1^, David Fee^2^, Antonio Capponi^1^, Caron E. J. Vossen^1^, Alec Bennet^3^
-
-:fontawesome-solid-clock: Thursday, 16:15 - 16:30
 
 ### [Bubbling Waters -- What hydroacoustics can tell us about volcanic gas emissions](../abstracts/2-1-4.md)
 :fontawesome-solid-person: ^^Ben Roche^^
@@ -77,15 +62,30 @@ search:
 
 :fontawesome-solid-clock: Friday, 15:00 - 15:15
 
+### [Explosions in the Sky: Seismo-acoustic and crowdsourced observations of the 2022 eruption of Hunga volcano from across Aotearoa New Zealand](../abstracts/2-1-1.md)
+:fontawesome-solid-person: ^^Oliver Lamb^^ ^1^, Mary Anne Clive^2^, Rachel Lawson^2^, Sally Potter^2^, Geoff Kilgour^1^, Paul A. Jarvis^3^, Sara Harrison^3^, Brad Scott^1^, Danielle Charlton^2^
+
+:fontawesome-solid-clock: Thursday, 15:45 - 16:00
+
 ### [How does a dike open? Insight from seismic source modelling of the earthquakes preceding the 2021 Tajogaite eruption (La Palma, Canary Islands).](../abstracts/2-1-12.md)
 :fontawesome-solid-person: Luca D'Auria^1,2^, Aarón Álvarez Hernández^1^, David Martínez van Dorth^1,2^, Germán D. Padilla^1,2^, Rubén García-Hernández^1^, Víctor Ortega Ramos^1^, Nemesio M. Pérez^1,2^ , Aldo Zollo^3^
 
 :fontawesome-solid-clock: Friday, 15:45 - 16:00
 
+### [Template matching for identification of hydro-acoustic signals to monitor underwater eruptions](../abstracts/2-1-2.md)
+:fontawesome-solid-person: ^^Lise Retailleau^1,2^^^ , Michel Frangieh^1,2,^ Jean-Marie Saurel^1^, Valérie Ferrazzini^1,2^
+
+:fontawesome-solid-clock: Thursday, 16:00 - 16:15
+
 ### [A New Perspective on Earthquake Triggering of Volcanic Unrest](../abstracts/2-1-13.md)
 :fontawesome-solid-person: ^^Stephanie Prejean^1^^^ , Joan Gomberg^2^, Paul Bodin^3^, Jeremy Pesicek^4^
 
 :fontawesome-solid-clock: Friday, 16:00 - 16:15
+
+### [From Geysers to Volcanoes: Connecting Fountain Dynamics with Acoustic and Electrical Signatures](../abstracts/2-1-3.md)
+:fontawesome-solid-person: ^^Julia E. Gestrich^1^^^ , Corrado Cimarelli^1^, David Fee^2^, Antonio Capponi^1^, Caron E. J. Vossen^1^, Alec Bennet^3^
+
+:fontawesome-solid-clock: Thursday, 16:15 - 16:30
 
 ### [A Novel Framework for Magma Supply Rate and Depth Controls on Volcanic Earthquake Magnitudes](../abstracts/2-1-14.md)
 :fontawesome-solid-person: ^^Diana C. Roman^1^^^ , Terry A. Plank^2^

@@ -1,18 +1,21 @@
-# Community-based knowledges of volcanic disaster risk. What benefit for communities, and how do we measure influence on response?
+# Empowered and embodied Leadership: A Journey to Inclusive and Conscious Leadership
 
-> :fontawesome-solid-users: Jenni Barclay, University of Bristol; Jon Stone, IFRC, Geneva; Teresa Armijos, University of Edinburgh
+> :fontawesome-solid-users: Costanza Bonadonna (University of Geneva), Joali Paredes-Mariño (University of Auckland)
 > 
-> :fontawesome-solid-calendar-days:
-> 
+> :fontawesome-solid-calendar-days: Saturday 28th June
+<!-- > 
 > :fontawesome-solid-clock:
 > 
-> :fontawesome-solid-map:
+> :fontawesome-solid-map: -->
 
 --- 
 
-Volcanology as a research community has enduring practice and interests in direct engagement with communities at risk. When this engagement is successful, it can directly result in can improve risk reduction. If not done well, it could result in harm to communities living with volcanic risk. 
+A one-day workshop before the IAVCEI Scientific Assembly is organized to explore important aspects of conscious and inclusive leadership that include self-empowerment and self-awareness. This unique and deep work is rooted in psychodynamic and psychosomatic approaches as well as breath work to unveil profound and hidden potentials and begin to embrace our true nature. Only through the expression of our authentic self we will be able to lead and relate with consciousness and creativity, which is key to the sustainable expansion of both ourselves and of our scientific community. 
 
-We need critical reflection on this practice: how does this work translate into actions during unrest or eruptive crises? How can we measure or understand this influence? Are there lessons we can learn from community work in other hazard settings or contexts? This workshop will address this by: exploring ‘lessons learned’ across our community, considering the state of the art in community-related work particularly in adapting to climate-related risk and considering how we might further improve practice by integrating this learning into future projects.   Finally, we will conclude by creating a pathway for future initiatives that might help us to learn from one another. 
+This deep and necessary work will be facilitated and supported by an experienced Integrative Transpersonal Psychotherapist with a deep passion for growth, truth and transformation, Abigail Iquo Isuo (https://www.potentialcharisma.com/). It will take place in an outstanding private location immersed in the inspiring park of Penthes Estate with spectacular views of Lake Geneva and Mont Blanc (behind the United Nations and only 15 minutes by bus from Geneva main train station).
+
+This one-day workshop is designed for open-minded researchers that are ready to deep dive into themselves and begin an integrative journey to fully embrace and enjoy their fullest potentials. It is carefully organized before the IAVCEI SA to give you the opportunity to explore new ways of communicating science, collaborating with other researchers in a multidisciplinary and multicultural setting and contributing to the growth of our scientific community with renew energy and vision.
+
 
 
 

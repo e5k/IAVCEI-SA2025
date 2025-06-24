@@ -30,7 +30,7 @@ search:
 :fontawesome-solid-clock: Monday, 08:45 - 09:00
 
 ### [Periodic dike intrusions in Kīlauea's middle East Rift Zone continue post-2018](../abstracts/2-4-3.md)
-:fontawesome-solid-person: ^^Emily K. Montgomery-Brown^^ ^1^, Ingrid A. Johanson^2^, Andria P. Ellis^2^, and Michael P. Poland^3^
+:fontawesome-solid-person: Emily K. Montgomery-Brown^1^, ^^Kyle Anderson^1^^^ , Ingrid A. Johanson^2^, Andria P. Ellis^2^, Michael P. Poland^3^
 
 :fontawesome-solid-clock: Monday, 09:00 - 09:15
 
@@ -268,7 +268,7 @@ search:
 
 :fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [281](../map_poster_boards.md#monday)
 
-### [Training deep learning networks with models integrating complex rheologies in the magmatic system: An advance to forecast time series models of volcanic deformation](../abstracts/2-4-50.md)
+### [WITHDRAWN -Training deep learning networks with models integrating complex rheologies in the magmatic system: An advance to forecast time series models of volcanic deformation](../abstracts/2-4-50.md)
 :fontawesome-solid-person: Camila Novoa Lizama, Andrew Hooper, Matthew Gaddes, Milan Lazecky, Shailza Sharma, Gopal Phartiyal, David Hogg, Susanna Ebmeier
 
 :fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [282](../map_poster_boards.md#monday)

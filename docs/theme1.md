@@ -52,9 +52,9 @@ We invite sessions that address the production of magmas, the processes that gov
 
 ### [Session 1.8: Volcanic plumbing system models to inform volcanic unrest processes](sessions/session-1-8.md)
 
-> :fontawesome-solid-users: [Thursday 15:45 - 16:30](sessions_comparison.md#__tabbed_3_5), [Friday 10:30 - 11:30](sessions_comparison.md#__tabbed_4_4) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room R380](maps_venue.md#__tabbed_1_1)
+> :fontawesome-solid-users: [Thursday 16:00 - 18:30](sessions_comparison.md#__tabbed_3_5), [Friday 11:00 - 11:00](sessions_comparison.md#__tabbed_4_4) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room R380](maps_venue.md#__tabbed_1_1)
 
-> :fontawesome-solid-person-chalkboard: [Thursday 16:30 - 18:30](sessions_comparison.md#__tabbed_3_6) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room Poster Hall](maps_venue.md#__tabbed_1_1)
+> :fontawesome-solid-person-chalkboard: [Thursday 16:30 - 18:30](sessions_comparison.md#__tabbed_3_6), [Friday 11:15 - 11:30](sessions_comparison.md#__tabbed_4_4) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room Poster Hall](maps_venue.md#__tabbed_1_1)
 
 ### [Session 1.9: Perspectives on magma storage and transport in the crust – lessons from mineral compositions and crystal textures in volcanic and plutonic rocks](sessions/session-1-9.md)
 

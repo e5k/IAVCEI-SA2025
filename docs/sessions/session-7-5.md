@@ -24,13 +24,13 @@ search:
 
 :fontawesome-solid-clock: Friday, 14:15 - 14:30
 
-### [Development of Volcanic Hazards Information System in Geological Survey of Japan](../abstracts/7-5-2.md)
-:fontawesome-solid-person: Shinji Takarada^1^, Joel Bandibas^1^, Yuhki Kohno^1^, Emi Kariya^1^ and Misato Osada^1,2^
+### [Integrating Standardized Volcano Monitoring Data into WOVOdat (Invited)](../abstracts/7-5-2.md)
+:fontawesome-solid-person: ^^Christina Widiwijayanti^1^^^ , Benoit Taisne^1,2^, Fidel Costa^3^, Nang T.Z. Win^1^, Tania Espinosa-Ortega^1^, Christopher G. Newhall^4^, Antonius Ratdomopurbo^5^, and WOVO observatories
 
 :fontawesome-solid-clock: Friday, 14:30 - 14:45
 
-### [Integrating Standardized Volcano Monitoring Data into WOVOdat (Invited)](../abstracts/7-5-3.md)
-:fontawesome-solid-person: ^^Christina Widiwijayanti^1^^^ , Benoit Taisne^1,2^, Fidel Costa^3^, Nang T.Z. Win^1^, Tania Espinosa-Ortega^1^, Christopher G. Newhall^4^, Antonius Ratdomopurbo^5^, and WOVO observatories
+### [Development of Volcanic Hazards Information System in Geological Survey of Japan](../abstracts/7-5-3.md)
+:fontawesome-solid-person: Shinji Takarada^1^, Joel Bandibas^1^, Yuhki Kohno^1^, Emi Kariya^1^ and Misato Osada^1,2^
 
 :fontawesome-solid-clock: Friday, 14:45 - 15:00
 
@@ -39,18 +39,18 @@ search:
 
 :fontawesome-solid-clock: Friday, 15:00 - 15:15
 
-### [Breaking barriers in science: Insights from Latin America's Volcano Observatories dual-language Special Issue (Invited)](../abstracts/7-5-5.md)
-:fontawesome-solid-person: Oryaëlle Chevrel^\1,2,3^, Pablo Forte^4^
+### [FAIR access to geoscientific data from Iceland on the EPOS Data Portal](../abstracts/7-5-5.md)
+:fontawesome-solid-person: ^^Ríkey Júlíusdóttir^^ ^1^, Kristín Vogfjörd^1^, Magnús T. Guðmundsson^2^, María H. Guðmundsdóttir^3^, Þorbjörg Ágústsdóttir^4^, Kjartan A. Jónsson^1^, Hildur M. Friðriksdóttir^1^, Þórdís Högnadóttir^2^
 
 :fontawesome-solid-clock: Friday, 15:45 - 16:00
 
-### [FAIR access to geoscientific data from Iceland on the EPOS Data Portal](../abstracts/7-5-6.md)
-:fontawesome-solid-person: ^^Ríkey Júlíusdóttir^^ ^1^, Kristín Vogfjörd^1^, Magnús T. Guðmundsson^2^, María H. Guðmundsdóttir^3^, Þorbjörg Ágústsdóttir^4^, Kjartan A. Jónsson^1^, Hildur M. Friðriksdóttir^1^, Þórdís Högnadóttir^2^
+### [Meeting the public where they are at by creating accessible resources with familiar tools](../abstracts/7-5-6.md)
+:fontawesome-solid-person: ^^Ajay Wynne Jones^^ ^1^, Sharon Backhouse^1^, Natalia Puche-Polo^2^, Sergio Alfaya^3^, Alexis Schwartz^1, ^Richard Brown^4^, and Dávila-Harris^5^
 
 :fontawesome-solid-clock: Friday, 16:00 - 16:15
 
-### [Meeting the public where they are at by creating accessible resources with familiar tools](../abstracts/7-5-7.md)
-:fontawesome-solid-person: ^^Ajay Wynne Jones^^ ^1^, Sharon Backhouse^1^, Natalia Puche-Polo^2^, Sergio Alfaya^3^, Alexis Schwartz^1, ^Richard Brown^4^, and Dávila-Harris^5^
+### [Breaking barriers in science: Insights from Latin America's Volcano Observatories dual-language Special Issue (Invited)](../abstracts/7-5-7.md)
+:fontawesome-solid-person: Oryaëlle Chevrel^\1,2,3^, Pablo Forte^4^
 
 :fontawesome-solid-clock: Friday, 16:15 - 16:30
 

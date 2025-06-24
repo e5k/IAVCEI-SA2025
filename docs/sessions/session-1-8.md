@@ -10,32 +10,17 @@ search:
 
 > :fontawesome-solid-users: **Talks**:
 
-> - :fontawesome-solid-calendar-days: [Thursday 15:45 - 16:30](../sessions_comparison.md#__tabbed_3_5), [Friday 10:30 - 11:30](../sessions_comparison.md#__tabbed_4_4)
-> - :fontawesome-solid-map: [Room R380](../maps_venue.md#__tabbed_1_1)
+> - :fontawesome-solid-calendar-days: [Friday 10:30 - 11:15](../sessions_comparison.md#__tabbed_4_4), [Thursday 15:45 - 18:30](../sessions_comparison.md#__tabbed_3_5)
+> - :fontawesome-solid-map: [Room R290](../maps_venue.md#__tabbed_1_1)
 
 > :fontawesome-solid-person-chalkboard: **Posters**:
 
-> - :fontawesome-solid-calendar-days: [Thursday 16:30 - 18:30](../sessions_comparison.md#__tabbed_3_6)
-> - :fontawesome-solid-map: [Room R380](../maps_venue.md#__tabbed_1_1)
+> - :fontawesome-solid-calendar-days: [Thursday 16:30 - 18:30](../sessions_comparison.md#__tabbed_3_6), [Friday 11:15 - 11:30](../sessions_comparison.md#__tabbed_4_4)
+> - :fontawesome-solid-map: [Room R290](../maps_venue.md#__tabbed_1_1)
 
 ---
 
 ## :fontawesome-solid-users: Talks
-
-### [Crustal thickening and doming induced by the emplacement of volcanic plumbing systems: case studies at back-arc volcanoes in the Neuquén Basin, Argentina](../abstracts/1-8-1.md)
-:fontawesome-solid-person: Ezequiel Lombardo^1^, Daniel Yagupsky^2^, Ernesto Cristallini^2^, Dougal A. Jerram^3,4^, Olivier Galland^3^
-
-:fontawesome-solid-clock: Thursday, 15:45 - 16:00
-
-### [Melting of hydrothermal system: Petrology of glassy-like bombs in 1895 eruption of Zao Volcano, NE Japan](../abstracts/1-8-2.md)
-:fontawesome-solid-person: Masao Ban^1^, Mutsumi Matsuoka^1^, Takumi Imura^1^, Kae Tsunematsu^1^, Motohiro Sato^1^, Akiko Matsumoto^2^, Mitsuhiro Nakagawa^2^
-
-:fontawesome-solid-clock: Thursday, 16:00 - 16:15
-
-### [Magma storage, evolution and degassing at Mombacho (Nicaragua): new insights to decipher the current state of activity of a long dormant volcano](../abstracts/1-8-3.md)
-:fontawesome-solid-person: ^^Manon Pouget^1^^^ , Séverine Moune^1^, David Chavarria^2^, Fausto Grassa^3^, Marta Ibarra^2^, Étienne Médard^1^, Federica Schiavi^1^, Cristhian Torrez^2^, Benjamin van Wyk de Vries^1^, Guillaume Boudoire^1 ^
-
-:fontawesome-solid-clock: Thursday, 16:15 - 16:30
 
 ### [Subsurface lateral magma propagation from Nyiragongo volcano (DRC): an interplay between rifting-induced extension and edifice loading](../abstracts/1-8-4.md)
 :fontawesome-solid-person: Virginie Pinel^1^, Catherine Mériaux^2^, Mohamedahmed Mirghani Hassan Mohamed^2^
@@ -47,15 +32,30 @@ search:
 
 :fontawesome-solid-clock: Friday, 10:45 - 11:00
 
-### [The compressibility of the Svartsengi magma domain: lessons learned from comparison of volumes of inflation-deflation and volumes of dikes and lavas during the Sundhnúkur crater row rifting episode 2023 to present (Invited)](../abstracts/1-8-6.md)
-:fontawesome-solid-person: Freysteinn Sigmundsson^1^, Michelle Parks^2^, Vincent Drouin^2^, Halldór Geirsson^1^, Gro B. M. Pedersen^2^, Benedikt Ófeigsson^2^, Simon W. Matthews^1^, Sæmundur A. Halldórsson^1^, Eniko Bali^1^, Magnús T. Gudmundsson^1^, Joaquin M. C. Belart^3^, Birgir V. Óskarsson^3^, Sydney R. Gunnarsson^3^, Tom  Winder^1^, Andrew Hooper^4^, Chiara Lanzi^2^, Yilin Yang^1^, Sonja H. M. Greiner^1^, Ásta Rut Hjartardóttir^2^, Páll Einarsson^1^
+### [Melting of hydrothermal system: Petrology of glassy-like bombs in 1895 eruption of Zao Volcano, NE Japan](../abstracts/1-8-2.md)
+:fontawesome-solid-person: Masao Ban^1^, Mutsumi Matsuoka^1^, Takumi Imura^1^, Kae Tsunematsu^1^, Motohiro Sato^1^, Akiko Matsumoto^2^, Mitsuhiro Nakagawa^2^
 
 :fontawesome-solid-clock: Friday, 11:00 - 11:15
 
-### [Modeling Magma Recharge Dynamics during the 2016 Nevados de Chillán Eruption: Insights from a Two-Chamber Interaction System through Petrology and Geodesy](../abstracts/1-8-7.md)
+### [The compressibility of the Svartsengi magma domain: lessons learned from comparison of volumes of inflation-deflation and volumes of dikes and lavas during the Sundhnúkur crater row rifting episode 2023 to present (Invited)](../abstracts/1-8-6.md)
+:fontawesome-solid-person: Freysteinn Sigmundsson^1^, Michelle Parks^2^, Vincent Drouin^2^, Halldór Geirsson^1^, Gro B. M. Pedersen^2^, Benedikt Ófeigsson^2^, Simon W. Matthews^1^, Sæmundur A. Halldórsson^1^, Eniko Bali^1^, Magnús T. Gudmundsson^1^, Joaquin M. C. Belart^3^, Birgir V. Óskarsson^3^, Sydney R. Gunnarsson^3^, Tom  Winder^1^, Andrew Hooper^4^, Chiara Lanzi^2^, Yilin Yang^1^, Sonja H. M. Greiner^1^, Ásta Rut Hjartardóttir^2^, Páll Einarsson^1^
+
+:fontawesome-solid-clock: Thursday, 15:45 - 16:00
+
+### [Crustal thickening and doming induced by the emplacement of volcanic plumbing systems: case studies at back-arc volcanoes in the Neuquén Basin, Argentina](../abstracts/1-8-1.md)
+:fontawesome-solid-person: Ezequiel Lombardo^1^, Daniel Yagupsky^2^, Ernesto Cristallini^2^, Dougal A. Jerram^3,4^, Olivier Galland^3^
+
+:fontawesome-solid-clock: Thursday, 16:00 - 16:15
+
+### [Magma storage, evolution and degassing at Mombacho (Nicaragua): new insights to decipher the current state of activity of a long dormant volcano](../abstracts/1-8-3.md)
+:fontawesome-solid-person: ^^Manon Pouget^1^^^ , Séverine Moune^1^, David Chavarria^2^, Fausto Grassa^3^, Marta Ibarra^2^, Étienne Médard^1^, Federica Schiavi^1^, Cristhian Torrez^2^, Benjamin van Wyk de Vries^1^, Guillaume Boudoire^1 ^
+
+:fontawesome-solid-clock: Thursday, 16:15 - 16:30
+
+### [WITHDRAWN -Modeling Magma Recharge Dynamics during the 2016 Nevados de Chillán Eruption: Insights from a Two-Chamber Interaction System through Petrology and Geodesy](../abstracts/1-8-7.md)
 :fontawesome-solid-person: Camila Novoa Lizama^a^, D. Remy^b^, J.C. Baez^c^, A. Oyarzun^d^, S. Bonvalot^b^, A. Hooper^a^
 
-:fontawesome-solid-clock: Friday, 11:15 - 11:30
+:fontawesome-solid-clock: Thursday, 16:30 - 18:30
 
 ---
 
@@ -89,7 +89,7 @@ search:
 ### [Impact of topography and water load on magma propagation modelling](../abstracts/1-8-13.md)
 :fontawesome-solid-person: ^^Séverine Furst^^ ^1^, Lorenzo Mantiloni^2,^ Francesco Maccaferri^3^, Fiene Stoepke^1^, Megan Campbell^1^, Morelia Urlaub^1^
 
-:fontawesome-solid-clock: Thursday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [182](../map_poster_boards.md#thursday)
+:fontawesome-solid-clock: Friday, 11:15 - 11:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [<NA>](../map_poster_boards.md#friday)
 
 ### [Nested eruptive pattern of multi-volcanisms based on the historical eruption records in Kirishima volcano, Kyushu, Japan](../abstracts/1-8-14.md)
 :fontawesome-solid-person: Yasuhisa Tajima^1^, Tetsuo Kobayashi^2^, Chris Conway^3^

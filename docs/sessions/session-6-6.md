@@ -5,6 +5,9 @@ search:
 
 # Session 6.6: Life in volcanic environments: Human and Environmental Health impacts of volcanogenic contaminants
 
+!!! warning "Multiple days"
+    **This session is scheduled over multiple days!**
+
 > :fontawesome-solid-users: **Talks**:
 
 > - :fontawesome-solid-calendar-days: [Monday 15:45 - 16:30](../sessions_comparison.md#__tabbed_1_4)
@@ -12,7 +15,7 @@ search:
 
 > :fontawesome-solid-person-chalkboard: **Posters**:
 
-> - :fontawesome-solid-calendar-days: [Monday 16:30 - 18:30](../sessions_comparison.md#__tabbed_1_6)
+> - :fontawesome-solid-calendar-days: [Monday 16:30 - 18:30](../sessions_comparison.md#__tabbed_1_6), [Friday 16:30 - 18:30](../sessions_comparison.md#__tabbed_4_6)
 > - :fontawesome-solid-map: [Room R290](../maps_venue.md#__tabbed_1_1)
 
 ---
@@ -71,7 +74,7 @@ search:
 ### [The toxic effect of volcanic soil nanoparticules, imogolite and halloysite, nanoparticles on macrophages](../abstracts/6-6-10.md)
 :fontawesome-solid-person: ^^Latifa Sarra Kazi Tani^^ ^1,2,^, Raphael Serduc^3,4^, Noémie Quesnel^3^, Anouk Marsal^5^, Gaëlle Uzu^4^ et CHARLET Laurent^1^.
 
-:fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [22](../map_poster_boards.md#monday)
+:fontawesome-solid-clock: Friday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [90](../map_poster_boards.md#friday)
 
 ### [Surface analyses of the ash from the 2021 Tajogaite eruption, La Palma, reveals compositional diversity and complex formation pathways of fluoride-bearing compounds](../abstracts/6-6-11.md)
 :fontawesome-solid-person: ^^Pierre Delmelle^^ ^1^, Julia Eychenne^2,3^, Mickaël Laumonier^2^, Elena C. Maters^4^, Arnaud Denis^1^, Séverine Moune^2^, Matthew J. Pankhurst^5,6^

@@ -10,32 +10,17 @@ search:
 
 > :fontawesome-solid-users: **Talks**:
 
-> - :fontawesome-solid-calendar-days: [Monday 15:45 - 16:30](../sessions_comparison.md#__tabbed_1_5), [Tuesday 08:30 - 10:00](../sessions_comparison.md#__tabbed_2_3)
-> - :fontawesome-solid-map: [Room R380](../maps_venue.md#__tabbed_1_1)
+> - :fontawesome-solid-calendar-days: [Tuesday 08:30 - 10:00](../sessions_comparison.md#__tabbed_2_3), [Monday 15:45 - 16:30](../sessions_comparison.md#__tabbed_1_5)
+> - :fontawesome-solid-map: [Room R280](../maps_venue.md#__tabbed_1_1)
 
 > :fontawesome-solid-person-chalkboard: **Posters**:
 
 > - :fontawesome-solid-calendar-days: [Tuesday 16:30 - 18:30](../sessions_comparison.md#__tabbed_2_6)
-> - :fontawesome-solid-map: [Room R380](../maps_venue.md#__tabbed_1_1)
+> - :fontawesome-solid-map: [Room R280](../maps_venue.md#__tabbed_1_1)
 
 ---
 
 ## :fontawesome-solid-users: Talks
-
-### [How can we forecast eruptions from caldera systems? A case study from Taupō (Invited)](../abstracts/3-15-1.md)
-:fontawesome-solid-person: Finnigan Illsley-Kemp^1^, Simon J Barker^1^, Eleanor RH Mestel^1^, Colin JN Wilson^1^
-
-:fontawesome-solid-clock: Monday, 15:45 - 16:00
-
-### [Near real-time mapping and monitoring of effusive eruptions and tectonic movements with crewed airborne photogrammetry surveys on the Reykjanes Peninsula, Iceland](../abstracts/3-15-2.md)
-:fontawesome-solid-person: ^^ Birgir V. Óskarsson^1^^^ , Joaquin M.C. Belart^1^, Rob A. Askew^1^, Sydney R. Gunnarson^1^, Guðmundur Valsson^1^
-
-:fontawesome-solid-clock: Monday, 16:00 - 16:15
-
-### [Lava effusion in mountainous terrain generates flow backup and increased inundation](../abstracts/3-15-3.md)
-:fontawesome-solid-person: ^^Annie Borch^1^^^ , James K. Russell^1^, Thomas Jones^2^
-
-:fontawesome-solid-clock: Monday, 16:15 - 16:30
 
 ### [Simultaneous Observation of Host Medium Deformation and Magma Flow in Volcanic Dykes: An Analogue Modelling Approach](../abstracts/3-15-4.md)
 :fontawesome-solid-person: ^^Charlotte Barrington^^ ^1^, Adel Emadzadeh^1,2^, Yxavion Chang^3^, Shane Wang^3^, Evana Hossin^4^, Stephen Pansino^5^, Benoit Taisne^1,3^
@@ -66,6 +51,21 @@ search:
 :fontawesome-solid-person: ^^Sophie Pailot-Bonnétat^^ ^1^, Victoria Rafflin^1,2^, Lydie Gailler^1^, Giancarlo Tamburello^3^, Guillaume Boudoire^1,4^, Andrew J.L. Harris^1^
 
 :fontawesome-solid-clock: Tuesday, 09:45 - 10:00
+
+### [How can we forecast eruptions from caldera systems? A case study from Taupō (Invited)](../abstracts/3-15-1.md)
+:fontawesome-solid-person: Finnigan Illsley-Kemp^1^, Simon J Barker^1^, Eleanor RH Mestel^1^, Colin JN Wilson^1^
+
+:fontawesome-solid-clock: Monday, 15:45 - 16:00
+
+### [Near real-time mapping and monitoring of effusive eruptions and tectonic movements with crewed airborne photogrammetry surveys on the Reykjanes Peninsula, Iceland](../abstracts/3-15-2.md)
+:fontawesome-solid-person: ^^ Birgir V. Óskarsson^1^^^ , Joaquin M.C. Belart^1^, Rob A. Askew^1^, Sydney R. Gunnarson^1^, Guðmundur Valsson^1^
+
+:fontawesome-solid-clock: Monday, 16:00 - 16:15
+
+### [Lava effusion in mountainous terrain generates flow backup and increased inundation](../abstracts/3-15-3.md)
+:fontawesome-solid-person: ^^Annie Borch^1^^^ , James K. Russell^1^, Thomas Jones^2^
+
+:fontawesome-solid-clock: Monday, 16:15 - 16:30
 
 ---
 

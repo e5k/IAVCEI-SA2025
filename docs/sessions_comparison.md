@@ -9,12 +9,13 @@ This page provides a daily schedule of all scientific sessions across different 
 
 
 
-**Jump to a specific day:**
+| **Day** | **SciCom demonstrations** | **Lightning talks** |
+| --- | --- | --- |
+| [Monday](#monday-2025-06-30) | [Demonstrations](social/demonstrations.md#monday)  | [:fontawesome-brands-youtube:](https://www.youtube.com/playlist?list=PLkpBTJPIdqTs7nerA2RgUFXe_T3aPjYj4)  |
+| [Tuesday](#tuesday-2025-07-01) | [Demonstrations](social/demonstrations.md#tuesday)  | [:fontawesome-brands-youtube:](https://www.youtube.com/playlist?list=PLkpBTJPIdqTs0YrKVYokai4JZosXliWml)  |
+| [Thursday](#thursday-2025-07-03) | [Demonstrations](social/demonstrations.md#thursday) |[:fontawesome-brands-youtube:](https://www.youtube.com/playlist?list=PLkpBTJPIdqTtLTMvqOZmY8GJ96UUX9jip)    |
+| [Friday](#friday-2025-07-04) | [Demonstrations](social/demonstrations.md#friday)  | [:fontawesome-brands-youtube:](https://www.youtube.com/playlist?list=PLkpBTJPIdqTuL9xfrd8HF9-RzCx7Qd6cq)  |
 
-- [Monday](#monday-2025-06-30)
-- [Tuesday](#tuesday-2025-07-01)
-- [Thursday](#thursday-2025-07-03)
-- [Friday](#friday-2025-07-04)
 
 
 ---
@@ -23,8 +24,8 @@ This page provides a daily schedule of all scientific sessions across different 
 
 !!! tip "On Monday, you might also like..."
 
-    - [SciCom demonstrations](social/demonstrations.md#monday).
-    - [Lightning talks for poster sessions]().
+    - [SciCom demonstrations](social/demonstrations.md#monday)
+    - [Lightning talks for poster sessions](https://www.youtube.com/playlist?list=PLkpBTJPIdqTs7nerA2RgUFXe_T3aPjYj4)
 
 === "Room S150"
 
@@ -39,7 +40,7 @@ This page provides a daily schedule of all scientific sessions across different 
     | 10:30 - 10:45 | [S3.1](sessions/session-3-1.md) | Martina Allegra  et al. | [A Cutting-Edge AI Approach for...](abstracts/3-1-7.md) |
     | 10:45 - 11:00 | [S3.1](sessions/session-3-1.md) | Rubén García-Hernandez et al. | [Detection of seismic phases on...](abstracts/3-1-8.md) |
     | 11:00 - 11:15 | [S3.1](sessions/session-3-1.md) | Léonard Seydoux | [Leveraging Machine Learning fo...](abstracts/3-1-9.md) |
-    | 11:15 - 11:30 | [S3.1](sessions/session-3-1.md) | Alysha Armstrong et al. | [Using Machine Learning to Enha...](abstracts/3-1-10.md) |
+    | 11:15 - 11:30 | [S3.1](sessions/session-3-1.md) | Mel Rodgers et al. | [Lessons Learned from a Communi...](abstracts/3-1-12.md) |
     | 14:15 - 14:30 | [S3.6](sessions/session-3-6.md) | Mradipta Lintang Alifcanta... et al. | [Syn-eruptive conduit processes...](abstracts/3-6-1.md) |
     | 14:30 - 14:45 | [S3.6](sessions/session-3-6.md) | Greg A. Valentine et al. | [Explosive eruption column dyna...](abstracts/3-6-2.md) |
     | 14:45 - 15:00 | [S3.6](sessions/session-3-6.md) | Olivier Roche  et al. | [Nucleation of gas bubbles trig...](abstracts/3-6-3.md) |
@@ -55,7 +56,7 @@ This page provides a daily schedule of all scientific sessions across different 
     | ----  | ---- | ---- | ---- | 
     | 08:30 - 08:45 | [S2.4](sessions/session-2-4.md) | Federico Galetto et al. | [The continuous volcanic activi...](abstracts/2-4-1.md) |
     | 08:45 - 09:00 | [S2.4](sessions/session-2-4.md) | Andie Gomez-Patron et al. | [Using remote sensing technique...](abstracts/2-4-2.md) |
-    | 09:00 - 09:15 | [S2.4](sessions/session-2-4.md) | Emily K. Montgomery-Brown  et al. | [Periodic dike intrusions in Kī...](abstracts/2-4-3.md) |
+    | 09:00 - 09:15 | [S2.4](sessions/session-2-4.md) | Emily K. Montgomery-Brown et al. | [Periodic dike intrusions in Kī...](abstracts/2-4-3.md) |
     | 09:15 - 09:30 | [S2.4](sessions/session-2-4.md) | Fabricio Carbajal et al. | [Seasonal Control on Phreatic A...](abstracts/2-4-4.md) |
     | 09:30 - 09:45 | [S2.4](sessions/session-2-4.md) | Jamie Farrell et al. | [The July, 2024 Hydrothermal Ex...](abstracts/2-4-5.md) |
     | 09:45 - 10:00 | [S2.4](sessions/session-2-4.md) | Alexander Garcia et al. | [Exploring multiparametric data...](abstracts/2-4-6.md) |
@@ -167,7 +168,6 @@ This page provides a daily schedule of all scientific sessions across different 
     | [19](map_poster_boards.md#monday) | [S6.6](sessions/session-6-6.md) | Ines Tomašek et al. | [Biological effects of co-expos...](abstracts/6-6-7.md) |  |
     | [20](map_poster_boards.md#monday) | [S6.6](sessions/session-6-6.md) | Frank Förster  et al. | [Role of pristine and remobilis...](abstracts/6-6-8.md) |  |
     | [21](map_poster_boards.md#monday) | [S6.6](sessions/session-6-6.md) | Alexandra Grace Lang   et al. | [How does volcanic mercury impa...](abstracts/6-6-9.md) |  |
-    | [22](map_poster_boards.md#monday) | [S6.6](sessions/session-6-6.md) | Latifa Sarra Kazi Tani  et al. | [The toxic effect of volcanic s...](abstracts/6-6-10.md) |  |
     | [23](map_poster_boards.md#monday) | [S6.6](sessions/session-6-6.md) | Pierre Delmelle  et al. | [Surface analyses of the ash fr...](abstracts/6-6-11.md) |  |
     | [24](map_poster_boards.md#monday) | [S6.6](sessions/session-6-6.md) | David Damby  et al. | [Origins of a public health haz...](abstracts/6-6-12.md) |  |
     | [25](map_poster_boards.md#monday) | [S1.7](sessions/session-1-7.md) |  Anna C. Ruefer et al. | [Amalgamation of multiple, disc...](abstracts/1-7-12.md) |  |
@@ -283,8 +283,8 @@ This page provides a daily schedule of all scientific sessions across different 
     | [146](map_poster_boards.md#monday) | [S3.1](sessions/session-3-1.md) | Luca Caricchi et al. | [Combining thermodynamic- and m...](abstracts/3-1-38.md) |  |
     | [147](map_poster_boards.md#monday) | [S3.1](sessions/session-3-1.md) | Emma J. Watts  et al. | [Afar triple junction fed by si...](abstracts/3-1-39.md) |  |
     | [148](map_poster_boards.md#monday) | [S3.1](sessions/session-3-1.md) | Simone Aveni et al. | [TIRVolcH: a Satellite-Based Vo...](abstracts/3-1-40.md) |  |
-    | [149](map_poster_boards.md#monday) | [S3.1](sessions/session-3-1.md) | Camilo Naranjo  et al. | [Volcanic cloud detection and r...](abstracts/3-1-41.md) |  |
-    | [150](map_poster_boards.md#monday) | [S3.1](sessions/session-3-1.md) | Adam J.R. Kent et al. | [Rapid LA-ICP-MS measurement of...](abstracts/3-1-42.md) |  |
+    | [149](map_poster_boards.md#monday) | [S3.1](sessions/session-3-1.md) | Camilo Naranjo et al. | [Volcanic cloud detection and r...](abstracts/3-1-41.md) |  |
+    | [150](map_poster_boards.md#monday) | [S3.1](sessions/session-3-1.md) | Adam J.R. Kent et al. | [WITHDRAWN -Rapid LA-ICP-MS mea...](abstracts/3-1-42.md) |  |
     | [151](map_poster_boards.md#monday) | [S3.1](sessions/session-3-1.md) | Társilo Girona  et al. | [SSTAR: A user-friendly applica...](abstracts/3-1-43.md) |  |
     | [152](map_poster_boards.md#monday) | [S3.1](sessions/session-3-1.md) | Damià Benet  et al. | [Developing and data mining wit...](abstracts/3-1-44.md) |  |
     | [153](map_poster_boards.md#monday) | [S3.1](sessions/session-3-1.md) | Laura Sandri  et al. | [Random Forest classificators f...](abstracts/3-1-45.md) |  |
@@ -378,7 +378,7 @@ This page provides a daily schedule of all scientific sessions across different 
     | [278](map_poster_boards.md#monday) | [S2.4](sessions/session-2-4.md) | Alexandra Grace Lang  et al. | [Do shape and size of erupted t...](abstracts/2-4-47.md) |  |
     | [279](map_poster_boards.md#monday) | [S2.4](sessions/session-2-4.md) | Nemesio M. Pérez et al. | [Probabilistic Failure Forecast...](abstracts/2-4-48.md) |  |
     | [281](map_poster_boards.md#monday) | [S2.4](sessions/session-2-4.md) |  Pierdomenico Romano et al. | [FEM model of surface deformati...](abstracts/2-4-49.md) |  |
-    | [282](map_poster_boards.md#monday) | [S2.4](sessions/session-2-4.md) | Camila Novoa Lizama et al. | [Training deep learning network...](abstracts/2-4-50.md) |  |
+    | [282](map_poster_boards.md#monday) | [S2.4](sessions/session-2-4.md) | Camila Novoa Lizama et al. | [WITHDRAWN -Training deep learn...](abstracts/2-4-50.md) |  |
     | [283](map_poster_boards.md#monday) | [S2.4](sessions/session-2-4.md) | Erica De Paolo  et al. | [A trans-dimensional inversion ...](abstracts/2-4-51.md) |  |
     | [284](map_poster_boards.md#monday) | [S2.4](sessions/session-2-4.md) | Erica De Paolo  et al. | [Volcanic unrest detection usin...](abstracts/2-4-52.md) |  |
     
@@ -389,8 +389,8 @@ This page provides a daily schedule of all scientific sessions across different 
 
 !!! tip "On Tuesday, you might also like..."
 
-    - [SciCom demonstrations](social/demonstrations.md#tuesday).
-    - [Lightning talks for poster sessions]().
+    - [SciCom demonstrations](social/demonstrations.md#tuesday)
+    - [Lightning talks for poster sessions](https://www.youtube.com/playlist?list=PLkpBTJPIdqTs0YrKVYokai4JZosXliWml)
 
 === "Room S150"
 
@@ -408,7 +408,7 @@ This page provides a daily schedule of all scientific sessions across different 
     | 11:15 - 11:30 | [S3.2](sessions/session-3-2.md) | Martin F. Mangler  et al. | [Experimental insights into cry...](abstracts/3-2-4.md) |
     | 14:15 - 14:30 | [S3.2](sessions/session-3-2.md) | Frankie Haywood et al. | [Analysis of iron oxidation sta...](abstracts/3-2-5.md) |
     | 14:30 - 14:45 | [S3.2](sessions/session-3-2.md) |  Julia Schunke et al. | [Sintering of vesiculating and ...](abstracts/3-2-6.md) |
-    | 14:45 - 15:00 | [S3.2](sessions/session-3-2.md) | Emanuele  Caruso et al. | [Numerical Investigation of Mag...](abstracts/3-2-7.md) |
+    | 14:45 - 15:00 | [S3.2](sessions/session-3-2.md) | Emanuele  Caruso et al. | [WITHDRAWN -Numerical Investiga...](abstracts/3-2-7.md) |
     | 15:00 - 15:15 | [S3.2](sessions/session-3-2.md) | Clothilde Biensan et al. | [In-flight fragmentation dynami...](abstracts/3-2-8.md) |
     | 15:45 - 16:00 | [S3.2](sessions/session-3-2.md) | Rafael Torres-Orozco  et al. | [Variable genesis, storage, min...](abstracts/3-2-9.md) |
     | 16:00 - 16:15 | [S3.2](sessions/session-3-2.md) | Franziska Keller et al. | [Unravelling the effects of vol...](abstracts/3-2-10.md) |
@@ -470,7 +470,7 @@ This page provides a daily schedule of all scientific sessions across different 
     | 09:00 - 09:15 | [S6.2](sessions/session-6-2.md) | Sofia Della Sala  et al. | [Evidence for a Hydrothermal Ev...](abstracts/6-2-3.md) |
     | 09:15 - 09:30 | [S6.2](sessions/session-6-2.md) | Fukashi Maeno | [Surface phenomena and hazards ...](abstracts/6-2-4.md) |
     | 09:30 - 09:45 | [S6.2](sessions/session-6-2.md) | Jacob Alexander Nash et al. | [Nature of offshore Hunga erupt...](abstracts/6-2-5.md) |
-    | 09:45 - 10:00 | [S6.2](sessions/session-6-2.md) | David A. Butterfield | [Comparing hydrothermal respons...](abstracts/6-2-6.md) |
+    | 09:45 - 10:00 | [S6.2](sessions/session-6-2.md) | David A. Butterfield | [WITHDRAWN -Comparing hydrother...](abstracts/6-2-6.md) |
     | 10:30 - 10:45 | [S3.16](sessions/session-3-16.md) | Boris Kaus et al. | [Fully coupled petrological/the...](abstracts/3-16-4.md) |
     | 10:45 - 11:00 | [S3.16](sessions/session-3-16.md) | Froukje M. van der Zwan  et al. | [Explosive or effusive volcanis...](abstracts/3-16-5.md) |
     | 11:00 - 11:15 | [S3.16](sessions/session-3-16.md) |  Jackie E. Kendrick et al. | [Fragmentation by high energy i...](abstracts/3-16-6.md) |
@@ -769,8 +769,8 @@ This page provides a daily schedule of all scientific sessions across different 
 
 !!! tip "On Thursday, you might also like..."
 
-    - [SciCom demonstrations](social/demonstrations.md#thursday).
-    - [Lightning talks for poster sessions]().
+    - [SciCom demonstrations](social/demonstrations.md#thursday)
+    - [Lightning talks for poster sessions](https://www.youtube.com/playlist?list=PLkpBTJPIdqTtLTMvqOZmY8GJ96UUX9jip)
 
 === "Room S150"
 
@@ -845,12 +845,12 @@ This page provides a daily schedule of all scientific sessions across different 
 
     | Time  | Session | Authors | Title | 
     | ----  | ---- | ---- | ---- | 
-    | 08:30 - 08:45 | [S7.4](sessions/session-7-4.md) | Guillaume Mauri  | [Using the Twitch interactive l...](abstracts/7-4-1.md) |
-    | 08:45 - 09:00 | [S7.4](sessions/session-7-4.md) | Kadie Bennis et al. | [Understanding volcanoes throug...](abstracts/7-4-2.md) |
-    | 09:00 - 09:15 | [S7.4](sessions/session-7-4.md) | Victoria Miller et al. | [Getting to know Aotearoa-New Z...](abstracts/7-4-3.md) |
-    | 09:15 - 09:30 | [S7.4](sessions/session-7-4.md) | Noah Schamuells et al. | [The Volkis' adventure: the per...](abstracts/7-4-4.md) |
-    | 09:30 - 09:45 | [S7.4](sessions/session-7-4.md) | Lucia Dominguez et al. | [Will my house resist to volcan...](abstracts/7-4-5.md) |
-    | 09:45 - 10:00 | [S7.4](sessions/session-7-4.md) | Jenni Barclay et al. | [Sensing Volcanoes: improving u...](abstracts/7-4-6.md) |
+    | 08:30 - 08:45 | [S7.4](sessions/session-7-4.md) | Jenni Barclay et al. | [Sensing Volcanoes: improving u...](abstracts/7-4-1.md) |
+    | 08:45 - 09:00 | [S7.4](sessions/session-7-4.md) | Guillaume Mauri  | [Using the Twitch interactive l...](abstracts/7-4-2.md) |
+    | 09:00 - 09:15 | [S7.4](sessions/session-7-4.md) | Kadie Bennis et al. | [Understanding volcanoes throug...](abstracts/7-4-3.md) |
+    | 09:15 - 09:30 | [S7.4](sessions/session-7-4.md) | Victoria Miller et al. | [Getting to know Aotearoa-New Z...](abstracts/7-4-4.md) |
+    | 09:30 - 09:45 | [S7.4](sessions/session-7-4.md) | Noah Schamuells et al. | [The Volkis' adventure: the per...](abstracts/7-4-5.md) |
+    | 09:45 - 10:00 | [S7.4](sessions/session-7-4.md) | Lucia Dominguez et al. | [Will my house resist to volcan...](abstracts/7-4-6.md) |
     | 10:30 - 10:45 | [S3.8](sessions/session-3-8.md) | Gabor Kereszturi et al. | [Volcanic hydrothermal systems ...](abstracts/3-8-1.md) |
     | 10:45 - 11:00 | [S3.8](sessions/session-3-8.md) | Jean-Emmanuel Martelat  et al. | [Continuous subaerial mapping o...](abstracts/3-8-2.md) |
     | 11:00 - 11:15 | [S3.8](sessions/session-3-8.md) | Matteo Lupi  et al. | [Combining 3D ERT, drone and sa...](abstracts/3-8-3.md) |
@@ -869,7 +869,7 @@ This page provides a daily schedule of all scientific sessions across different 
     | Time  | Session | Authors | Title | 
     | ----  | ---- | ---- | ---- | 
     | 08:30 - 08:45 | [S3.1](sessions/session-3-1.md) | Sam Mitchinson et al. | [In search for ground-truth. Qu...](abstracts/3-1-11.md) |
-    | 08:45 - 09:00 | [S3.1](sessions/session-3-1.md) | Mel Rodgers et al. | [Lessons Learned from a Communi...](abstracts/3-1-12.md) |
+    | 08:45 - 09:00 | [S3.1](sessions/session-3-1.md) | Alysha Armstrong et al. | [Using Machine Learning to Enha...](abstracts/3-1-10.md) |
     | 09:00 - 09:15 | [S3.1](sessions/session-3-1.md) | Federica Torrisi  et al. | [A ConvLSTM based deep neural n...](abstracts/3-1-13.md) |
     | 09:15 - 09:30 | [S3.1](sessions/session-3-1.md) | Claudia Corradino  et al. | [A machine learning approach to...](abstracts/3-1-14.md) |
     | 09:30 - 09:45 | [S3.1](sessions/session-3-1.md) | Talfan Barnie  et al. | [VolcanoInSight: A webcam syste...](abstracts/3-1-15.md) |
@@ -884,8 +884,8 @@ This page provides a daily schedule of all scientific sessions across different 
     | 14:30 - 14:45 | [S3.11](sessions/session-3-11.md) | Magnús T. Gudmundsson et al. | [The rapid resurgence of the ic...](abstracts/3-11-6.md) |
     | 14:45 - 15:00 | [S3.11](sessions/session-3-11.md) | Adele Campus  et al. | [Impact of the 2007 caldera col...](abstracts/3-11-7.md) |
     | 15:00 - 15:15 | [S3.11](sessions/session-3-11.md) | Thomas W. Austin et al. | [Exploring the 2018 Kilauea Cal...](abstracts/3-11-8.md) |
-    | 15:45 - 16:00 | [S1.8](sessions/session-1-8.md) | Ezequiel Lombardo et al. | [Crustal thickening and doming ...](abstracts/1-8-1.md) |
-    | 16:00 - 16:15 | [S1.8](sessions/session-1-8.md) | Masao Ban et al. | [Melting of hydrothermal system...](abstracts/1-8-2.md) |
+    | 15:45 - 16:00 | [S1.8](sessions/session-1-8.md) | Freysteinn Sigmundsson et al. | [The compressibility of the Sva...](abstracts/1-8-6.md) |
+    | 16:00 - 16:15 | [S1.8](sessions/session-1-8.md) | Ezequiel Lombardo et al. | [Crustal thickening and doming ...](abstracts/1-8-1.md) |
     | 16:15 - 16:30 | [S1.8](sessions/session-1-8.md) | Manon Pouget et al. | [Magma storage, evolution and d...](abstracts/1-8-3.md) |
     
 
@@ -960,7 +960,7 @@ This page provides a daily schedule of all scientific sessions across different 
     | [71](map_poster_boards.md#thursday) | [S3.14](sessions/session-3-14.md) | Roverato M.  et al. | [Giant phreatic eruptions at Mi...](abstracts/3-14-5.md) |  |
     | [72](map_poster_boards.md#thursday) | [S3.14](sessions/session-3-14.md) | Sophie Pearson-Grant et al. | [Investigating conditions for g...](abstracts/3-14-6.md) |  |
     | [73](map_poster_boards.md#thursday) | [S3.14](sessions/session-3-14.md) | Kae Tsunematsu et al. | [Modelling the ejection velocit...](abstracts/3-14-7.md) |  |
-    | [74](map_poster_boards.md#thursday) | [S3.14](sessions/session-3-14.md) | Leandro D'Elia et al. | [HYDROTHERMAL ERUPTIONS AT THE ...](abstracts/3-14-8.md) | [:fontawesome-solid-bolt-lightning:](https://youtu.be/vKLZS21X2iQ) |
+    | [74](map_poster_boards.md#thursday) | [S3.14](sessions/session-3-14.md) | Leandro D'Elia et al. | [HYDROTHERMAL ERUPTIONS AT THE ...](abstracts/3-14-8.md) | [:fontawesome-brands-youtube:](https://youtu.be/vKLZS21X2iQ) |
     | [75](map_poster_boards.md#thursday) | [S3.14](sessions/session-3-14.md) | Henriette Bakkar  et al. | [TEN YEARS BENEATH RINCÓN DE LA...](abstracts/3-14-9.md) |  |
     | [76](map_poster_boards.md#thursday) | [S3.14](sessions/session-3-14.md) | Bruce Christenson et al. | [Hydrothermal Seal Systematics ...](abstracts/3-14-10.md) |  |
     | [77](map_poster_boards.md#thursday) | [S3.14](sessions/session-3-14.md) | Nils Mekelburger  et al. | [Modeling explosion dynamics du...](abstracts/3-14-11.md) |  |
@@ -985,7 +985,7 @@ This page provides a daily schedule of all scientific sessions across different 
     | [96](map_poster_boards.md#thursday) | [S3.12](sessions/session-3-12.md) | Hugues Brenot et al. | [Monitoring ash-laden plumes us...](abstracts/3-12-22.md) |  |
     | [97](map_poster_boards.md#thursday) | [S3.12](sessions/session-3-12.md) | Franck Donnadieu  et al. | [The ash load of Strombolian vo...](abstracts/3-12-23.md) |  |
     | [98](map_poster_boards.md#thursday) | [S3.12](sessions/session-3-12.md) | Rui Mota  et al. | [Volcanic lightning and plume d...](abstracts/3-12-24.md) |  |
-    | [99](map_poster_boards.md#thursday) | [S3.12](sessions/session-3-12.md) | Hamida Diab | [Volcanic Evolution and Activit...](abstracts/3-12-25.md) |  |
+    | [99](map_poster_boards.md#thursday) | [S3.12](sessions/session-3-12.md) | Hamida Diab | [WITHDRAWN -Volcanic Evolution ...](abstracts/3-12-25.md) |  |
     | [105](map_poster_boards.md#thursday) | [S2.1](sessions/session-2-1.md) | Dannie Hidayat) et al. | [Characteristic of the 2023-202...](abstracts/2-1-15.md) |  |
     | [106](map_poster_boards.md#thursday) | [S2.1](sessions/session-2-1.md) | Karenna Merritt et al. | [Comparing seismoacoustic signa...](abstracts/2-1-16.md) |  |
     | [107](map_poster_boards.md#thursday) | [S2.1](sessions/session-2-1.md) | Alea Joachim  et al. | [Link between inner crater coll...](abstracts/2-1-17.md) |  |
@@ -1029,7 +1029,7 @@ This page provides a daily schedule of all scientific sessions across different 
     | [145](map_poster_boards.md#thursday) | [S2.2](sessions/session-2-2.md) | William W. Chadwick et al. | [Axial Seamount is forecast to ...](abstracts/2-2-9.md) |  |
     | [146](map_poster_boards.md#thursday) | [S2.2](sessions/session-2-2.md) | Takuro Horiuchi  et al. | [A full view of the 15 January ...](abstracts/2-2-10.md) |  |
     | [147](map_poster_boards.md#thursday) | [S2.2](sessions/session-2-2.md) | Kusumita Arora  et al. | [Geomagnetic Signatures of the ...](abstracts/2-2-11.md) |  |
-    | [148](map_poster_boards.md#thursday) | [S2.2](sessions/session-2-2.md) | Masaaki Morita  et al. | [Monitoring of sulfur dioxide f...](abstracts/2-2-12.md) |  |
+    | [148](map_poster_boards.md#thursday) | [S2.2](sessions/session-2-2.md) | Masaaki Morita  et al. | [WITHDRAWN -Monitoring of sulfu...](abstracts/2-2-12.md) |  |
     | [149](map_poster_boards.md#thursday) | [S2.2](sessions/session-2-2.md) | Raphaël Paris et al. | [Tsunamis and pyroclastic flows...](abstracts/2-2-13.md) |  |
     | [150](map_poster_boards.md#thursday) | [S2.2](sessions/session-2-2.md) | Alexis Bougouin et al. | [Predicting tsunamis generated ...](abstracts/2-2-14.md) |  |
     | [151](map_poster_boards.md#thursday) | [S2.2](sessions/session-2-2.md) | Matteo Trolese et al. | [Sensitivity analysis of source...](abstracts/2-2-15.md) |  |
@@ -1039,7 +1039,7 @@ This page provides a daily schedule of all scientific sessions across different 
     | [155](map_poster_boards.md#thursday) | [S2.2](sessions/session-2-2.md) | Rui Fagundes Silva et al. | [Proposal of a combined general...](abstracts/2-2-19.md) |  |
     | [156](map_poster_boards.md#thursday) | [S2.2](sessions/session-2-2.md) | Emma Hadré  et al. | [Evidence of mass-wasting and l...](abstracts/2-2-20.md) |  |
     | [157](map_poster_boards.md#thursday) | [S2.2](sessions/session-2-2.md) | Fiene Stoepke  et al. | [Insights from direct shear exp...](abstracts/2-2-21.md) |  |
-    | [158](map_poster_boards.md#thursday) | [S2.2](sessions/session-2-2.md) | Simon Plank  et al. | [Erosion controls direction of ...](abstracts/2-2-22.md) | [:fontawesome-solid-bolt-lightning:](https://youtu.be/FdB8P2n8cS4) |
+    | [158](map_poster_boards.md#thursday) | [S2.2](sessions/session-2-2.md) | Simon Plank  et al. | [Erosion controls direction of ...](abstracts/2-2-22.md) | [:fontawesome-brands-youtube:](https://youtu.be/FdB8P2n8cS4) |
     | [159](map_poster_boards.md#thursday) | [S2.2](sessions/session-2-2.md) | Eliza Dennis et al. | [Investigating Volcanic Hazard ...](abstracts/2-2-23.md) |  |
     | [160](map_poster_boards.md#thursday) | [S2.2](sessions/session-2-2.md) | David Martínez van Dorth et al. | [Seismic microzonation of San C...](abstracts/2-2-24.md) |  |
     | [161](map_poster_boards.md#thursday) | [S2.2](sessions/session-2-2.md) | María Blanch Jover et al. | [Cape Riva versus Minoan erupti...](abstracts/2-2-25.md) |  |
@@ -1057,7 +1057,7 @@ This page provides a daily schedule of all scientific sessions across different 
     | [179](map_poster_boards.md#thursday) | [S1.8](sessions/session-1-8.md) | Gregor Weber et al. | [Evaluating Second Boiling as a...](abstracts/1-8-10.md) |  |
     | [180](map_poster_boards.md#thursday) | [S1.8](sessions/session-1-8.md) | Lin Way  et al. | [Dike propagation and surface f...](abstracts/1-8-11.md) |  |
     | [181](map_poster_boards.md#thursday) | [S1.8](sessions/session-1-8.md) | Lewis Lovell   et al. | [Volcano-Tectonic Modelling: Th...](abstracts/1-8-12.md) |  |
-    | [182](map_poster_boards.md#thursday) | [S1.8](sessions/session-1-8.md) | Séverine Furst  et al. | [Impact of topography and water...](abstracts/1-8-13.md) |  |
+    | [182](map_poster_boards.md#thursday) | [S1.8](sessions/session-1-8.md) | Camila Novoa Lizamaa et al. | [WITHDRAWN -Modeling Magma Rech...](abstracts/1-8-7.md) |  |
     | [183](map_poster_boards.md#thursday) | [S1.8](sessions/session-1-8.md) | Yasuhisa Tajima et al. | [Nested eruptive pattern of mul...](abstracts/1-8-14.md) |  |
     | [184](map_poster_boards.md#thursday) | [S1.8](sessions/session-1-8.md) | Javiera Ruz-Ginouves  et al. | [From Curtains of Fire to Focus...](abstracts/1-8-15.md) |  |
     | [185](map_poster_boards.md#thursday) | [S1.8](sessions/session-1-8.md) | Lorenzo Mantiloni  et al. | [Modelling Stress and Strain Ra...](abstracts/1-8-16.md) |  |
@@ -1098,7 +1098,7 @@ This page provides a daily schedule of all scientific sessions across different 
     | [223](map_poster_boards.md#thursday) | [S1.9](sessions/session-1-9.md) | Olivia Barbee et al. | [Seeing through volcanic rocks,...](abstracts/1-9-30.md) |  |
     | [224](map_poster_boards.md#thursday) | [S1.9](sessions/session-1-9.md) | Charline Lormand  et al. | [A novel in-situ method to trac...](abstracts/1-9-31.md) |  |
     | [225](map_poster_boards.md#thursday) | [S1.1](sessions/session-1-1.md) | Pauline Nguet Wokwenmendam \ et al. | [Contribution of melt inclusion...](abstracts/1-1-11.md) |  |
-    | [226](map_poster_boards.md#thursday) | [S1.1](sessions/session-1-1.md) | Georg F. Zellmer et al. | [Crystal fragmentation inducing...](abstracts/1-1-12.md) | [:fontawesome-solid-bolt-lightning:](https://youtu.be/qdowrVMT3M0) |
+    | [226](map_poster_boards.md#thursday) | [S1.1](sessions/session-1-1.md) | Georg F. Zellmer et al. | [Crystal fragmentation inducing...](abstracts/1-1-12.md) | [:fontawesome-brands-youtube:](https://youtu.be/qdowrVMT3M0) |
     | [227](map_poster_boards.md#thursday) | [S1.1](sessions/session-1-1.md) | Valerie K. Wasser   et al. | [Insights into the Magmatic Plu...](abstracts/1-1-13.md) |  |
     | [228](map_poster_boards.md#thursday) | [S1.1](sessions/session-1-1.md) | Céline Baudouin  et al. | [Deciphering Fe- and S-XANES in...](abstracts/1-1-14.md) |  |
     | [229](map_poster_boards.md#thursday) | [S1.1](sessions/session-1-1.md) | Fazilat Yousefi et al. | [Crystallized Melt Inclusions i...](abstracts/1-1-15.md) |  |
@@ -1122,7 +1122,7 @@ This page provides a daily schedule of all scientific sessions across different 
     | [247](map_poster_boards.md#thursday) | [S1.1](sessions/session-1-1.md) | Tumaini Giulia et al. | [Tracking the transition from m...](abstracts/1-1-33.md) |  |
     | [248](map_poster_boards.md#thursday) | [S1.1](sessions/session-1-1.md) | Aditya Pratama et al. | [Magma Storage Conditions Benea...](abstracts/1-1-34.md) |  |
     | [249](map_poster_boards.md#thursday) | [S1.1](sessions/session-1-1.md) | Wenting Huang et al. | [Magmatic Cl-H2O contents, flui...](abstracts/1-1-35.md) |  |
-    | [250](map_poster_boards.md#thursday) | [S1.1](sessions/session-1-1.md) | Chun Terence LEUNG  et al. | [Bi-directional flow of magma r...](abstracts/1-1-36.md) |  |
+    | [250](map_poster_boards.md#thursday) | [S1.1](sessions/session-1-1.md) | Chun Terence LEUNG et al. | [Bi-directional flow of magma r...](abstracts/1-1-36.md) |  |
     | [251](map_poster_boards.md#thursday) | [S1.1](sessions/session-1-1.md) | Helena Albert  et al. | [Pre-eruptive magmatic processe...](abstracts/1-1-37.md) |  |
     | [252](map_poster_boards.md#thursday) | [S1.1](sessions/session-1-1.md) | Clémentine Antoine et al. | [Tracing the evolution of magma...](abstracts/1-1-38.md) |  |
     | [253](map_poster_boards.md#thursday) | [S1.1](sessions/session-1-1.md) | Thomas Shea et al. | [Does melt (dry or hydrous) inf...](abstracts/1-1-39.md) |  |
@@ -1159,8 +1159,8 @@ This page provides a daily schedule of all scientific sessions across different 
 
 !!! tip "On Friday, you might also like..."
 
-    - [SciCom demonstrations](social/demonstrations.md#friday).
-    - [Lightning talks for poster sessions]().
+    - [SciCom demonstrations](social/demonstrations.md#friday)
+    - [Lightning talks for poster sessions](https://www.youtube.com/playlist?list=PLkpBTJPIdqTuL9xfrd8HF9-RzCx7Qd6cq)
 
 === "Room S150"
 
@@ -1243,15 +1243,15 @@ This page provides a daily schedule of all scientific sessions across different 
     | 09:45 - 10:00 | [S3.10](sessions/session-3-10.md) | Michael Stock  et al. | [Volcano-tectonic controls on t...](abstracts/3-10-6.md) |
     | 10:30 - 10:45 | [S1.8](sessions/session-1-8.md) | Virginie Pinel et al. | [Subsurface lateral magma propa...](abstracts/1-8-4.md) |
     | 10:45 - 11:00 | [S1.8](sessions/session-1-8.md) | Alicia Rohnacher  et al. | [Tracking velocity changes of t...](abstracts/1-8-5.md) |
-    | 11:00 - 11:15 | [S1.8](sessions/session-1-8.md) | Freysteinn Sigmundsson et al. | [The compressibility of the Sva...](abstracts/1-8-6.md) |
-    | 11:15 - 11:30 | [S1.8](sessions/session-1-8.md) | Camila Novoa Lizamaa et al. | [Modeling Magma Recharge Dynami...](abstracts/1-8-7.md) |
+    | 11:00 - 11:15 | [S1.8](sessions/session-1-8.md) | Masao Ban et al. | [Melting of hydrothermal system...](abstracts/1-8-2.md) |
+    | 11:15 - 11:30 | [S1.8](sessions/session-1-8.md) | Séverine Furst  et al. | [Impact of topography and water...](abstracts/1-8-13.md) |
     | 14:15 - 14:30 | [S7.5](sessions/session-7-5.md) | Debra Parcheta | [Breaking Silos: Collaborative ...](abstracts/7-5-1.md) |
-    | 14:30 - 14:45 | [S7.5](sessions/session-7-5.md) | Shinji Takarada et al. | [Development of Volcanic Hazard...](abstracts/7-5-2.md) |
-    | 14:45 - 15:00 | [S7.5](sessions/session-7-5.md) | Christina Widiwijayanti et al. | [Integrating Standardized Volca...](abstracts/7-5-3.md) |
+    | 14:30 - 14:45 | [S7.5](sessions/session-7-5.md) | Christina Widiwijayanti et al. | [Integrating Standardized Volca...](abstracts/7-5-2.md) |
+    | 14:45 - 15:00 | [S7.5](sessions/session-7-5.md) | Shinji Takarada et al. | [Development of Volcanic Hazard...](abstracts/7-5-3.md) |
     | 15:00 - 15:15 | [S7.5](sessions/session-7-5.md) | Sylvain J. Charbonnier et al. | [The Volcanology Infrastructure...](abstracts/7-5-4.md) |
-    | 15:45 - 16:00 | [S7.5](sessions/session-7-5.md) | Oryaëlle Chevrel\ et al. | [Breaking barriers in science: ...](abstracts/7-5-5.md) |
-    | 16:00 - 16:15 | [S7.5](sessions/session-7-5.md) | Ríkey Júlíusdóttir  et al. | [FAIR access to geoscientific d...](abstracts/7-5-6.md) |
-    | 16:15 - 16:30 | [S7.5](sessions/session-7-5.md) | Ajay Wynne Jones  et al. | [Meeting the public where they ...](abstracts/7-5-7.md) |
+    | 15:45 - 16:00 | [S7.5](sessions/session-7-5.md) | Ríkey Júlíusdóttir  et al. | [FAIR access to geoscientific d...](abstracts/7-5-5.md) |
+    | 16:00 - 16:15 | [S7.5](sessions/session-7-5.md) | Ajay Wynne Jones  et al. | [Meeting the public where they ...](abstracts/7-5-6.md) |
+    | 16:15 - 16:30 | [S7.5](sessions/session-7-5.md) | Oryaëlle Chevrel\ et al. | [Breaking barriers in science: ...](abstracts/7-5-7.md) |
     
 
 === "Room R380"
@@ -1268,6 +1268,8 @@ This page provides a daily schedule of all scientific sessions across different 
     | 10:45 - 11:00 | [S2.3](sessions/session-2-3.md) | Sonja H. M. Greiner et al. | [Tectonic stress release throug...](abstracts/2-3-8.md) |
     | 11:00 - 11:15 | [S2.3](sessions/session-2-3.md) | Luca Crescentini et al. | [On the ground deformation of C...](abstracts/2-3-9.md) |
     | 11:15 - 11:30 | [S2.3](sessions/session-2-3.md) | Diego Lobos-Lillo () et al. | [Laccolith deformation, pit cra...](abstracts/2-3-10.md) |
+    | 12:40 - 12:55 | [S8.1](sessions/session-8-1.md) | Eduardo Morgado  | [Connecting petrology and volca...](abstracts/8-1-7.md) |
+    | 12:55 - 13:10 | [S8.1](sessions/session-8-1.md) | Andrea Verolino  | [Calderas Beneath the Waves: AI...](abstracts/8-1-8.md) |
     | 14:15 - 14:30 | [S3.9](sessions/session-3-9.md) | Anna Perttu  et al. | [Precursory Pressure Signals of...](abstracts/3-9-1.md) |
     | 14:30 - 14:45 | [S3.9](sessions/session-3-9.md) | Laurent Chupin et al. | [Emplacement mechanisms of pyro...](abstracts/3-9-2.md) |
     | 14:45 - 15:00 | [S3.9](sessions/session-3-9.md) | Geoffrey (Jeff) Robert et al. | [The interaction between Pyrocl...](abstracts/3-9-3.md) |
@@ -1290,7 +1292,7 @@ This page provides a daily schedule of all scientific sessions across different 
     | [7](map_poster_boards.md#friday) | [S1.5](sessions/session-1-5.md) | Josefa Sepúlveda-Araya et al. | [Magma intrusion at Askja Calde...](abstracts/1-5-14.md) |  |
     | [8](map_poster_boards.md#friday) | [S1.5](sessions/session-1-5.md) | Graham J Hill et al. | [Magmatic Structure and Melt St...](abstracts/1-5-15.md) |  |
     | [9](map_poster_boards.md#friday) | [S1.5](sessions/session-1-5.md) | Liam J. Kelly  et al. | [One small step in the crust, o...](abstracts/1-5-16.md) |  |
-    | [10](map_poster_boards.md#friday) | [S1.5](sessions/session-1-5.md) | Adam Kent  et al. | [Barometers Behaving Badlier: H...](abstracts/1-5-17.md) |  |
+    | [10](map_poster_boards.md#friday) | [S1.5](sessions/session-1-5.md) | Adam Kent  et al. | [WITHDRAWN -Barometers Behaving...](abstracts/1-5-17.md) |  |
     | [11](map_poster_boards.md#friday) | [S1.5](sessions/session-1-5.md) | Janire Prudencio  et al. | [3D Seismic attenuation structu...](abstracts/1-5-18.md) |  |
     | [12](map_poster_boards.md#friday) | [S1.5](sessions/session-1-5.md) | Melissa Anne Pfeffer et al. | [CO2 gas content measured in th...](abstracts/1-5-19.md) |  |
     | [13](map_poster_boards.md#friday) | [S1.5](sessions/session-1-5.md) | Andrew Bell et al. | [Magma accumulation and asymmet...](abstracts/1-5-20.md) |  |
@@ -1365,6 +1367,7 @@ This page provides a daily schedule of all scientific sessions across different 
     | [87](map_poster_boards.md#friday) | [S6.8](sessions/session-6-8.md) | Dmitri Rouwet  et al. | [Lahar triggering mechanisms at...](abstracts/6-8-13.md) |  |
     | [88](map_poster_boards.md#friday) | [S6.8](sessions/session-6-8.md) | Daniel Sierra et al. | [CO2 diffuse degassing in volca...](abstracts/6-8-14.md) |  |
     | [89](map_poster_boards.md#friday) | [S6.8](sessions/session-6-8.md) | César Andrade  et al. | [CO2 and CH4 fluxes from Congro...](abstracts/6-8-15.md) |  |
+    | [90](map_poster_boards.md#friday) | [S6.6](sessions/session-6-6.md) | Latifa Sarra Kazi Tani  et al. | [The toxic effect of volcanic s...](abstracts/6-6-10.md) |  |
     | [91](map_poster_boards.md#friday) | [S6.7](sessions/session-6-7.md) | Fathia Lutfiananda et al. | [Fatalities associated with Pyr...](abstracts/6-7-7.md) |  |
     | [93](map_poster_boards.md#friday) | [S6.7](sessions/session-6-7.md) | David E. Jessop  et al. | [Dispersion of SO2 during the 2...](abstracts/6-7-8.md) |  |
     | [95](map_poster_boards.md#friday) | [S6.7](sessions/session-6-7.md) | Alana Weir  et al. | [How fit-for-purpose are volcan...](abstracts/6-7-9.md) |  |
@@ -1377,7 +1380,7 @@ This page provides a daily schedule of all scientific sessions across different 
     | [105](map_poster_boards.md#friday) | [S6.7](sessions/session-6-7.md) | Modesto Eusebio Portilla... | [Volcano mass-wasting and volca...](abstracts/6-7-16.md) |  |
     | [107](map_poster_boards.md#friday) | [S6.7](sessions/session-6-7.md) | Geoffrey A. Lerner et al. | [Disruption to airport operatio...](abstracts/6-7-17.md) |  |
     | [109](map_poster_boards.md#friday) | [S6.7](sessions/session-6-7.md) | Julie De Groote et al. | [How do we move closer to near ...](abstracts/6-7-18.md) |  |
-    | [111](map_poster_boards.md#friday) | [S6.7](sessions/session-6-7.md) | Andrew Tupper et al. | [Using the value chain approach...](abstracts/6-7-19.md) |  |
+    | [111](map_poster_boards.md#friday) | [S6.7](sessions/session-6-7.md) | Andrew Tupper et al. | [WITHDRAWN -Using the value cha...](abstracts/6-7-19.md) |  |
     | [112](map_poster_boards.md#friday) | [S6.7](sessions/session-6-7.md) | Melissa Anne Pfeffer  et al. | [Mapped geologic features used ...](abstracts/6-7-20.md) |  |
     | [113](map_poster_boards.md#friday) | [S6.7](sessions/session-6-7.md) | Luigi Mereu  et al. | [Assessing Tephra Mass Depositi...](abstracts/6-7-21.md) |  |
     | [115](map_poster_boards.md#friday) | [S6.7](sessions/session-6-7.md) | Angie Stephania Ramírez-Huerta... et al. | [Assessing volcanic multi-hazar...](abstracts/6-7-22.md) |  |

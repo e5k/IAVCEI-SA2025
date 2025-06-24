@@ -78,7 +78,7 @@ search:
 
 :fontawesome-solid-clock: Thursday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [147](../map_poster_boards.md#thursday)
 
-### [Monitoring of sulfur dioxide flux during the recent eruptions at Fukutoku-Oka-no-Ba and Nishinoshima volcanoes, Japan](../abstracts/2-2-12.md)
+### [WITHDRAWN -Monitoring of sulfur dioxide flux during the recent eruptions at Fukutoku-Oka-no-Ba and Nishinoshima volcanoes, Japan](../abstracts/2-2-12.md)
 :fontawesome-solid-person: ^^Masaaki Morita^^ ^1^, Toshiya Mori^2^, Takayuki Kaneko^1^
 
 :fontawesome-solid-clock: Thursday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [148](../map_poster_boards.md#thursday)

@@ -103,7 +103,7 @@ search:
 
 :fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [9](../map_poster_boards.md#friday)
 
-### [Barometers Behaving Badlier: How well does resolve transcrustal magma systems?](../abstracts/1-5-17.md)
+### [WITHDRAWN -Barometers Behaving Badlier: How well does resolve transcrustal magma systems?](../abstracts/1-5-17.md)
 :fontawesome-solid-person: ^^Adam Kent^^ ^1^, Penny Wieser^2^, Christy Till^3^, Geoff Abers^4^, Guanning Pang^4^
 
 :fontawesome-solid-clock: Friday, 16:30 - 18:00  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [10](../map_poster_boards.md#friday)

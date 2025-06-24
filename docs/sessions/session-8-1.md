@@ -10,7 +10,7 @@ search:
 
 > :fontawesome-solid-users: **Talks**:
 
-> - :fontawesome-solid-calendar-days: [Monday 12:40 - 13:10](../sessions_comparison.md#__tabbed_1_5), [Tuesday 12:40 - 13:10](../sessions_comparison.md#__tabbed_2_5), [Thursday 12:40 - 13:10](../sessions_comparison.md#__tabbed_3_5)
+> - :fontawesome-solid-calendar-days: [Monday 12:40 - 13:10](../sessions_comparison.md#__tabbed_1_5), [Tuesday 12:40 - 13:10](../sessions_comparison.md#__tabbed_2_5), [Thursday 12:40 - 13:10](../sessions_comparison.md#__tabbed_3_5), [Friday 12:40 - 13:10](../sessions_comparison.md#__tabbed_4_5)
 > - :fontawesome-solid-map: [Room R380](../maps_venue.md#__tabbed_1_1)
 
 ---
@@ -22,30 +22,40 @@ search:
 
 :fontawesome-solid-clock: Monday, 12:40 - 12:55
 
-### [Advancing in-situ observations of magmatic processes: development of an X-ray Transparent Internally Heated Pressure Vessel for High-Pressure, High-Temperature synchrotron imaging (Invited)](../abstracts/8-1-2.md)
-:fontawesome-solid-person: ^^Barbara Bonechi^1^^^
-
-:fontawesome-solid-clock: Monday, 12:55 - 13:10
-
 ### [Pen to Paper: a celebration of the enduring power of the sketch in a digital age (Invited)](../abstracts/8-1-3.md)
 :fontawesome-solid-person: ^^Ailsa Katharine Naismith^1^^^
 
 :fontawesome-solid-clock: Tuesday, 12:40 - 12:55
-
-### [Living on the Edge of an Active Volcano: Human Dimensions of Population Exposure to Volcanic Hazards -- Lessons from Goma, Eastern DR Congo (Invited)](../abstracts/8-1-4.md)
-:fontawesome-solid-person: ^^Mafuko Nyandwi B.^^  ^1^; Niang Fall A.^3^; Mani L.^2^
-
-:fontawesome-solid-clock: Tuesday, 12:55 - 13:10
 
 ### [The utility of topography in disentangling volcano construction, erosion, and magmatic histories (Invited)](../abstracts/8-1-5.md)
 :fontawesome-solid-person: ^^Daniel O'Hara^1^^^
 
 :fontawesome-solid-clock: Thursday, 12:40 - 12:55
 
+### [Connecting petrology and volcano monitoring: Insights from multiphase diffusion chronometry (Invited)](../abstracts/8-1-7.md)
+:fontawesome-solid-person: ^^Eduardo Morgado^^ ^1^
+
+:fontawesome-solid-clock: Friday, 12:40 - 12:55
+
+### [Advancing in-situ observations of magmatic processes: development of an X-ray Transparent Internally Heated Pressure Vessel for High-Pressure, High-Temperature synchrotron imaging (Invited)](../abstracts/8-1-2.md)
+:fontawesome-solid-person: ^^Barbara Bonechi^1^^^
+
+:fontawesome-solid-clock: Monday, 12:55 - 13:10
+
+### [Living on the Edge of an Active Volcano: Human Dimensions of Population Exposure to Volcanic Hazards -- Lessons from Goma, Eastern DR Congo (Invited)](../abstracts/8-1-4.md)
+:fontawesome-solid-person: ^^Mafuko Nyandwi B.^^  ^1^; Niang Fall A.^3^; Mani L.^2^
+
+:fontawesome-solid-clock: Tuesday, 12:55 - 13:10
+
 ### [How to find volcanoes that no longer exist?  (Invited)](../abstracts/8-1-6.md)
 :fontawesome-solid-person: ^^Ludmila M. Fonseca Teixeira^1^^^
 
 :fontawesome-solid-clock: Thursday, 12:55 - 13:10
+
+### [Calderas Beneath the Waves: AI-Powered Exploration of Subaqueous Volcanism (Invited)](../abstracts/8-1-8.md)
+:fontawesome-solid-person: ^^Andrea Verolino^^ ^1^
+
+:fontawesome-solid-clock: Friday, 12:55 - 13:10
 
 ---
 

@@ -8,7 +8,7 @@ Volcanoes and their eruptions are fascinating natural phenomena that, directly o
 
 ### [Session 3.1: Innovative Data Collection, Machine Learning, and Processing Methods in Volcanology](sessions/session-3-1.md)
 
-> :fontawesome-solid-users: [Monday 08:30 - 11:30](sessions_comparison.md#__tabbed_1_1), [Thursday 08:30 - 10:00](sessions_comparison.md#__tabbed_3_5) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room S150](maps_venue.md#__tabbed_1_2)
+> :fontawesome-solid-users: [Monday 08:30 - 11:30](sessions_comparison.md#__tabbed_1_1), [Thursday 08:45 - 10:00](sessions_comparison.md#__tabbed_3_5) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room S150](maps_venue.md#__tabbed_1_2)
 
 > :fontawesome-solid-person-chalkboard: [Monday 16:30 - 18:30](sessions_comparison.md#__tabbed_1_6) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room Poster Hall](maps_venue.md#__tabbed_1_1)
 

@@ -1,7 +1,10 @@
 site_name: Program for the 2025 IAVCEI SA
+site_description: The program for the 2025 IAVCEI Scientific Assembly in Geneva, Switzerland, including scientific sessions, keynote talks, workshops, and social events.
+site_author: IAVCEI
+site_author_url: https://www.iavcei.org/
 site_url: https://e5k.github.io/IAVCEI-SA2025/
-# repo_name: e5k/IAVCEI-SA2025
-# repo_url: https://github.com/e5k/IAVCEI-SA2025/
+repo_name: e5k/IAVCEI-SA2025
+repo_url: https://github.com/e5k/IAVCEI-SA2025/
 
 theme:
   name: material
@@ -129,12 +132,14 @@ nav:
             - Workshop 16: workshop16.md
             - Workshop 17: workshop17.md
             - Workshop 18: workshop18.md
-      - Commissions meetings: commissions.md    
+      - Commissions & Networks meetings: commissions.md    
 
   - Social:
       - social/index.md
       - Movie night: social/movie-night.md
       - SciCom demonstrations: social/demonstrations.md
+      - Magma red Jet d'Eau: social/jetdeau.md
+      - Volcano exhibition: social/exhibition.md
       # - blog/categories.md
   - Maps: 
       - maps.md
@@ -147,10 +152,15 @@ plugins:
     - blog:
         post_date_format: medium
         post_url_format: "{categories}/{slug}"
-    - meta
+    # - meta
     - mkdocstrings
     - tags
     - glightbox
+    - social:
+        cards_layout_options:
+            cards_color: "#fbd0c3"
+            color: "#ef4c49"
+            background_color: "#fbd0c3"
     # - bibtex:
     #     bib_file: "includes/bibliography.bib"
     #     csl_file: "includes/bibliography.cls"
@@ -211,16 +221,22 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 
-# extra:
-#   social:
-#     - icon: fontawesome/brands/twitter
-#       link: https://twitter.com/VolcanoRisk
-#     - icon: fontawesome/brands/github
-#       link: https://github.com/vharg
 extra:
-  version:
-    provider: mike
-    default: latest
+  social:
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/iavcei.bsky.social
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/iavcei_official
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/iavcei-int-assoc-of-volcanology-chemistry-of-the-earth-s-interior/posts/?feedView=all
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/iavcei/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/IAVCEI/
+# extra:
+#   version:
+#     provider: mike
+#     default: latest
 
 extra_css:
   - stylesheets/extra.css

@@ -199,7 +199,7 @@ search:
 :fontawesome-solid-clock: Thursday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [249](../map_poster_boards.md#thursday)
 
 ### [Bi-directional flow of magma recorded by melt inclusion morphology](../abstracts/1-1-36.md)
-:fontawesome-solid-person: ^^Chun Terence LEUNG^^ ^1^, Wei-Ran LI^1^
+:fontawesome-solid-person: Chun Terence LEUNG^1^, ^^Wei-Ran Li^1^^^
 
 :fontawesome-solid-clock: Thursday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [250](../map_poster_boards.md#thursday)
 

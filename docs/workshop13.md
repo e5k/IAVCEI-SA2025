@@ -4,7 +4,7 @@
 > 
 > :fontawesome-solid-calendar-days: Saturday 5th July
 > 
-> :fontawesome-solid-clock: 08:30-18:00
+> :fontawesome-solid-clock: 09:00-18:30
 > 
 > :fontawesome-solid-map: [Room M1140](maps_venue.md#__tabbed_3_2)
 

@@ -5,7 +5,7 @@
 > 
 > :fontawesome-solid-calendar-days: Sunday 29th June
 > 
-> :fontawesome-solid-clock: 08:30-12:30
+> :fontawesome-solid-clock: 09:00-13:00
 > 
 > :fontawesome-solid-map: [Room R030](maps_venue.md#__tabbed_3_1)
 

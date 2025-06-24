@@ -45,7 +45,7 @@ Comprehensive volcanic hazard and risk analyses must ideally encompass all phase
 
 > :fontawesome-solid-users: [Monday 15:45 - 16:30](sessions_comparison.md#__tabbed_1_4) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room R290](maps_venue.md#__tabbed_1_1)
 
-> :fontawesome-solid-person-chalkboard: [Monday 16:30 - 18:30](sessions_comparison.md#__tabbed_1_6) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room Poster Hall](maps_venue.md#__tabbed_1_1)
+> :fontawesome-solid-person-chalkboard: [Monday 16:30 - 18:30](sessions_comparison.md#__tabbed_1_6), [Friday 16:30 - 18:30](sessions_comparison.md#__tabbed_4_6) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room Poster Hall](maps_venue.md#__tabbed_1_1)
 
 ### [Session 6.7: Advances in volcanic hazard and risk assessments and the quantification of associated uncertainties](sessions/session-6-7.md)
 

@@ -10,32 +10,17 @@ search:
 
 > :fontawesome-solid-users: **Talks**:
 
-> - :fontawesome-solid-calendar-days: [Monday 15:45 - 16:30](../sessions_comparison.md#__tabbed_1_2), [Tuesday 10:30 - 11:30](../sessions_comparison.md#__tabbed_2_4)
-> - :fontawesome-solid-map: [Room S160](../maps_venue.md#__tabbed_1_2)
+> - :fontawesome-solid-calendar-days: [Tuesday 10:30 - 11:30](../sessions_comparison.md#__tabbed_2_4), [Monday 15:45 - 16:30](../sessions_comparison.md#__tabbed_1_2)
+> - :fontawesome-solid-map: [Room R290](../maps_venue.md#__tabbed_1_1)
 
 > :fontawesome-solid-person-chalkboard: **Posters**:
 
 > - :fontawesome-solid-calendar-days: [Tuesday 16:30 - 18:30](../sessions_comparison.md#__tabbed_2_6)
-> - :fontawesome-solid-map: [Room S160](../maps_venue.md#__tabbed_1_2)
+> - :fontawesome-solid-map: [Room R290](../maps_venue.md#__tabbed_1_1)
 
 ---
 
 ## :fontawesome-solid-users: Talks
-
-### [Origin of Basaltic Subplinian Eruption at Shishaldin Volcano (Alaska): A Vigorously Degassing Magma Reservoir Hosting Small Bubbles](../abstracts/3-16-1.md)
-:fontawesome-solid-person: ^^Sylvie Vergniolle^^
-
-:fontawesome-solid-clock: Monday, 15:45 - 16:00
-
-### [Outgassing behaviour during highly explosive basaltic eruptions](../abstracts/3-16-2.md)
-:fontawesome-solid-person: Emily C. Bamber^1^\, Giuseppe La Spina^2^, Fabio Arzilli^3^, Margherita Polacci^4^, Lucia Mancini^5^, Mattia de' Michieli Vitturi^6^, Daniele Andronico^2^, Rosa Anna Corsaro^2^ and Mike R. Burton^4^
-
-:fontawesome-solid-clock: Monday, 16:00 - 16:15
-
-### [Fault reactivation in extensional regime controlling magma pathways: insights from analogue modelling](../abstracts/3-16-3.md)
-:fontawesome-solid-person: Elisabetta Panza^1^, Joël Ruch ^1^, Nicolas Oestreicher^1,\ 2,\ 3^, Xingjun Luo^1,\ 4^
-
-:fontawesome-solid-clock: Monday, 16:15 - 16:30
 
 ### [Fully coupled petrological/thermo-mechanical models of magmatic systems.](../abstracts/3-16-4.md)
 :fontawesome-solid-person: ^^Boris Kaus,^^  Nicolas Riel, Hugo Dominguez, Jacob Frasunkiewicz, Pascal Aellig, Evangelos Moulas
@@ -56,6 +41,21 @@ search:
 :fontawesome-solid-person: ^^ Anthony Lamur^^ , Philip Benson, Jackie E. Kendrick, Fabian B. Wadsworth, Yan Lavallée
 
 :fontawesome-solid-clock: Tuesday, 11:15 - 11:30
+
+### [Origin of Basaltic Subplinian Eruption at Shishaldin Volcano (Alaska): A Vigorously Degassing Magma Reservoir Hosting Small Bubbles](../abstracts/3-16-1.md)
+:fontawesome-solid-person: ^^Sylvie Vergniolle^^
+
+:fontawesome-solid-clock: Monday, 15:45 - 16:00
+
+### [Outgassing behaviour during highly explosive basaltic eruptions](../abstracts/3-16-2.md)
+:fontawesome-solid-person: Emily C. Bamber^1^\, Giuseppe La Spina^2^, Fabio Arzilli^3^, Margherita Polacci^4^, Lucia Mancini^5^, Mattia de' Michieli Vitturi^6^, Daniele Andronico^2^, Rosa Anna Corsaro^2^ and Mike R. Burton^4^
+
+:fontawesome-solid-clock: Monday, 16:00 - 16:15
+
+### [Fault reactivation in extensional regime controlling magma pathways: insights from analogue modelling](../abstracts/3-16-3.md)
+:fontawesome-solid-person: Elisabetta Panza^1^, Joël Ruch ^1^, Nicolas Oestreicher^1,\ 2,\ 3^, Xingjun Luo^1,\ 4^
+
+:fontawesome-solid-clock: Monday, 16:15 - 16:30
 
 ---
 

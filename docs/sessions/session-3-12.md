@@ -143,7 +143,7 @@ search:
 
 :fontawesome-solid-clock: Thursday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [98](../map_poster_boards.md#thursday)
 
-### [Volcanic Evolution and Activity in the Hoggar Mountains: Insights into Cenozoic Processes](../abstracts/3-12-25.md)
+### [WITHDRAWN -Volcanic Evolution and Activity in the Hoggar Mountains: Insights into Cenozoic Processes](../abstracts/3-12-25.md)
 :fontawesome-solid-person: Hamida Diab
 
 :fontawesome-solid-clock: Thursday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [99](../map_poster_boards.md#thursday)

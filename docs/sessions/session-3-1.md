@@ -67,8 +67,8 @@ search:
 
 :fontawesome-solid-clock: Monday, 11:00 - 11:15
 
-### [Using Machine Learning to Enhance the Yellowstone Earthquake Catalog](../abstracts/3-1-10.md)
-:fontawesome-solid-person: ^^Alysha Armstrong^^ , Ben Baker, Keith Koper
+### [Lessons Learned from a Community-Driven Workshop to Define Best Practices for Unoccupied Aerial Systems (UAS) Use in Volcanology.](../abstracts/3-1-12.md)
+:fontawesome-solid-person: ^^Mel Rodgers^1^^^ , Fiona D'Arcy^2^, J. Andres Diaz^3^, Angie Diefenbach^4^, Jack Elston^5^, Enrica Marotta^6^, Brian Perttu^7^, Ian Schipper^8^, Florian Schwander^9^, Benoît Smets^10^,
 
 :fontawesome-solid-clock: Monday, 11:15 - 11:30
 
@@ -77,8 +77,8 @@ search:
 
 :fontawesome-solid-clock: Thursday, 08:30 - 08:45
 
-### [Lessons Learned from a Community-Driven Workshop to Define Best Practices for Unoccupied Aerial Systems (UAS) Use in Volcanology.](../abstracts/3-1-12.md)
-:fontawesome-solid-person: ^^Mel Rodgers^1^^^ , Fiona D'Arcy^2^, J. Andres Diaz^3^, Angie Diefenbach^4^, Jack Elston^5^, Enrica Marotta^6^, Brian Perttu^7^, Ian Schipper^8^, Florian Schwander^9^, Benoît Smets^10^,
+### [Using Machine Learning to Enhance the Yellowstone Earthquake Catalog](../abstracts/3-1-10.md)
+:fontawesome-solid-person: ^^Alysha Armstrong^^ , Ben Baker, Keith Koper
 
 :fontawesome-solid-clock: Thursday, 08:45 - 09:00
 
@@ -162,7 +162,7 @@ search:
 :fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [135](../map_poster_boards.md#monday)
 
 ### [Using Google Earth Engine as a tool for estimating volcanic cloud-top height based on GOES imagery: a case study at the remote Sangay volcano, Ecuador](../abstracts/3-1-28.md)
-:fontawesome-solid-person: Anais Vásconez Müller^1^; ^^Camilo Naranjo^^ ^2^; Benjamin Bernard^1^; Stefano Corradini^2^
+:fontawesome-solid-person: Anais Vásconez Müller^1^; Camilo Naranjo^2^; Benjamin Bernard^1^; ^^Stefano Corradini^2^^^
 
 :fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [136](../map_poster_boards.md#monday)
 
@@ -227,11 +227,11 @@ search:
 :fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [148](../map_poster_boards.md#monday)
 
 ### [Volcanic cloud detection and retrieval using Machine Learning approach and MSG-SEVIRI data from the 2020-2022 Etna activity](../abstracts/3-1-41.md)
-:fontawesome-solid-person: ^^Camilo Naranjo^^ ^1^, Lorenzo Guerrieri^1^, Stefano Corradini^1^, Luca Merucci^1^, Dario Stelitano^1^, Matteo Picchiani^2^
+:fontawesome-solid-person: Camilo Naranjo^1^, Lorenzo Guerrieri^1^, ^^Stefano Corradini^1^^^ , Luca Merucci^1^, Dario Stelitano^1^, Matteo Picchiani^2^
 
 :fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [149](../map_poster_boards.md#monday)
 
-### [Rapid LA-ICP-MS measurement of trace elements in volcanic glasses for petrologic monitoring](../abstracts/3-1-42.md)
+### [WITHDRAWN -Rapid LA-ICP-MS measurement of trace elements in volcanic glasses for petrologic monitoring](../abstracts/3-1-42.md)
 :fontawesome-solid-person: Adam J.R. Kent^1^, Kendra J. Lynn^2^, Drew T. Downs^2^, Chris J. Russo^1^, Charles T. Lewis^1^, Matthew W. Loewen^3^
 
 :fontawesome-solid-clock: Monday, 16:30 - 18:30  &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [150](../map_poster_boards.md#monday)

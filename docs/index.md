@@ -1,9 +1,19 @@
+---
+title: Program for the 2025 IAVCEI SA
+description: The program for the 2025 IAVCEI Scientific Assembly in Geneva, Switzerland, including scientific sessions, keynote talks, workshops, and social events.
+---
 
 ![Iavcei](img/IAVCEI2025_Banner.png){ width='100%'}
 
-# **IAVCEI 2025 Scientific Assembly**: The energies of magma: From volcanic eruptions and mineral resources to geothermal production and sustainability
+# **IAVCEI 2025 Scientific Assembly** 
+
+## The energies of magma: From volcanic eruptions and mineral resources to geothermal production and sustainability
+
+---
 
 Welcome to the scientific program of the 2025 IAVCEI Scientific Assembly. This website hopefully contains all the information for you to get the most of the conference.
+
+---
 
 ### [Scientific program](program.md) 
 

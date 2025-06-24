@@ -24,33 +24,33 @@ search:
 
 ## :fontawesome-solid-users: Talks
 
-### [Using the Twitch interactive live-streaming platform as a tool to communicate and educate about volcanoes and volcanic hazards.](../abstracts/7-4-1.md)
-:fontawesome-solid-person: Guillaume Mauri ^1^
+### [Sensing Volcanoes: improving understanding of eruptions through 'hands-on\' experiences (Invited)](../abstracts/7-4-1.md)
+:fontawesome-solid-person: Jenni Barclay^1^, David Pyle^2^, Karen Pascal^3,4^, Richie Robertson^4^, Stacey Edwards^4^, Pat Joseph^4^, Bridie Davies^5^, James Christie^6^ and Mountainaglow and Sensing Volcanoes Teams^7^
 
 :fontawesome-solid-clock: Thursday, 08:30 - 08:45
 
-### [Understanding volcanoes through the eyes of students: The new GVP/USGS Student Volcano Art Gallery](../abstracts/7-4-2.md)
-:fontawesome-solid-person: Kadie Bennis^1^, Sally Sennert^2^, Ed Venzke^1^
+### [Using the Twitch interactive live-streaming platform as a tool to communicate and educate about volcanoes and volcanic hazards.](../abstracts/7-4-2.md)
+:fontawesome-solid-person: Guillaume Mauri ^1^
 
 :fontawesome-solid-clock: Thursday, 08:45 - 09:00
 
-### [Getting to know Aotearoa-New Zealand's nearshore volcanoes -- A user-centred design approach to science translation products](../abstracts/7-4-3.md)
-:fontawesome-solid-person: ^^Victoria Miller^^ , Danielle Charlton, Andrew Boyes, Rachel White, Jenny Black, Cornel E.J. de Ronde, Craig Miller
+### [Understanding volcanoes through the eyes of students: The new GVP/USGS Student Volcano Art Gallery](../abstracts/7-4-3.md)
+:fontawesome-solid-person: Kadie Bennis^1^, Sally Sennert^2^, Ed Venzke^1^
 
 :fontawesome-solid-clock: Thursday, 09:00 - 09:15
 
-### [The Volkis' adventure: the perfect combination of science and creative illustration](../abstracts/7-4-4.md)
-:fontawesome-solid-person: Noah Schamuells^1^ , ^^Meritxell Aulinas^^ ^2,3,4^, Adelina Geyer^1^, Olaya Dorado^1^, Joaquin Hopfenblatt ^2^
+### [Getting to know Aotearoa-New Zealand's nearshore volcanoes -- A user-centred design approach to science translation products](../abstracts/7-4-4.md)
+:fontawesome-solid-person: ^^Victoria Miller^^ , Danielle Charlton, Andrew Boyes, Rachel White, Jenny Black, Cornel E.J. de Ronde, Craig Miller
 
 :fontawesome-solid-clock: Thursday, 09:15 - 09:30
 
-### [Will my house resist to volcanic hazards? Let's be prepared!](../abstracts/7-4-5.md)
-:fontawesome-solid-person: Lucia Dominguez^1^, Luigia Sara Di Maio^1^, Angie S. Ramirez-Huerta^1^, Carolina Diaz-Vecino^1^, Maria Paz Reyes-Hardy^1^, Riccardo Simionato^1^, Allan Fries^1^, Jonathan Lemus, Simon Thivet^1^, Sebastien Biass^1^, Alana Weir^1^, Corine Frischknecht^1^, Costanza Bonadonna^1^
+### [The Volkis' adventure: the perfect combination of science and creative illustration](../abstracts/7-4-5.md)
+:fontawesome-solid-person: Noah Schamuells^1^ , ^^Meritxell Aulinas^^ ^2,3,4^, Adelina Geyer^1^, Olaya Dorado^1^, Joaquin Hopfenblatt ^2^
 
 :fontawesome-solid-clock: Thursday, 09:30 - 09:45
 
-### [Sensing Volcanoes: improving understanding of eruptions through 'hands-on\' experiences (Invited)](../abstracts/7-4-6.md)
-:fontawesome-solid-person: Jenni Barclay^1^, David Pyle^2^, Karen Pascal^3,4^, Richie Robertson^4^, Stacey Edwards^4^, Pat Joseph^4^, Bridie Davies^5^, James Christie^6^ and Mountainaglow and Sensing Volcanoes Teams^7^
+### [Will my house resist to volcanic hazards? Let's be prepared!](../abstracts/7-4-6.md)
+:fontawesome-solid-person: Lucia Dominguez^1^, Luigia Sara Di Maio^1^, Angie S. Ramirez-Huerta^1^, Carolina Diaz-Vecino^1^, Maria Paz Reyes-Hardy^1^, Riccardo Simionato^1^, Allan Fries^1^, Jonathan Lemus, Simon Thivet^1^, Sebastien Biass^1^, Alana Weir^1^, Corine Frischknecht^1^, Costanza Bonadonna^1^
 
 :fontawesome-solid-clock: Thursday, 09:45 - 10:00
 

@@ -9,12 +9,13 @@ This page lists sessions for each day. To compare across rooms, please visit [th
 
 
 
-**Jump to a specific day:**
+| **Day** | **SciCom demonstrations** | **Lightning talks** |
+| --- | --- | --- |
+| [Monday](#monday-2025-06-30) | [Demonstrations](social/demonstrations.md#monday)  | [:fontawesome-brands-youtube:](https://www.youtube.com/playlist?list=PLkpBTJPIdqTs7nerA2RgUFXe_T3aPjYj4)  |
+| [Tuesday](#tuesday-2025-07-01) | [Demonstrations](social/demonstrations.md#tuesday)  | [:fontawesome-brands-youtube:](https://www.youtube.com/playlist?list=PLkpBTJPIdqTs0YrKVYokai4JZosXliWml)  |
+| [Thursday](#thursday-2025-07-03) | [Demonstrations](social/demonstrations.md#thursday) |[:fontawesome-brands-youtube:](https://www.youtube.com/playlist?list=PLkpBTJPIdqTtLTMvqOZmY8GJ96UUX9jip)    |
+| [Friday](#friday-2025-07-04) | [Demonstrations](social/demonstrations.md#friday)  | [:fontawesome-brands-youtube:](https://www.youtube.com/playlist?list=PLkpBTJPIdqTuL9xfrd8HF9-RzCx7Qd6cq)  |
 
-- [Monday](#monday-2025-06-30)
-- [Tuesday](#tuesday-2025-07-01)
-- [Thursday](#thursday-2025-07-03)
-- [Friday](#friday-2025-07-04)
 
 
 ---
@@ -79,7 +80,7 @@ This page lists sessions for each day. To compare across rooms, please visit [th
 
 > :fontawesome-solid-users: [Room R290](maps_venue.md#__tabbed_1_1) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room R380](maps_venue.md#__tabbed_1_1)
 
-> :fontawesome-solid-person-chalkboard: [Monday 16:30 - 18:30](sessions_comparison.md#__tabbed_1_6) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room Poster Hall](maps_venue.md#__tabbed_1_1)
+> :fontawesome-solid-person-chalkboard: [Monday 16:30 - 18:30](sessions_comparison.md#__tabbed_1_6), [Friday 16:30 - 18:30](sessions_comparison.md#__tabbed_4_6) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room Poster Hall](maps_venue.md#__tabbed_1_1)
 
 ### [Session 7.1: From Indigenous Knowledge to Geoheritage: Strengthening Community Resilience and Public Engagement in Volcanic Regions](sessions/session-7-1.md)
 
@@ -197,7 +198,7 @@ This page lists sessions for each day. To compare across rooms, please visit [th
 
 > :fontawesome-solid-users: [Room R380](maps_venue.md#__tabbed_1_1) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room R380](maps_venue.md#__tabbed_1_1)
 
-> :fontawesome-solid-person-chalkboard: [Thursday 16:30 - 18:30](sessions_comparison.md#__tabbed_3_6) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room Poster Hall](maps_venue.md#__tabbed_1_1)
+> :fontawesome-solid-person-chalkboard: [Thursday 16:30 - 18:30](sessions_comparison.md#__tabbed_3_6), [Friday 11:15 - 11:30](sessions_comparison.md#__tabbed_4_4) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room Poster Hall](maps_venue.md#__tabbed_1_1)
 
 ### [Session 1.9: Perspectives on magma storage and transport in the crust – lessons from mineral compositions and crystal textures in volcanic and plutonic rocks](sessions/session-1-9.md)
 
@@ -289,7 +290,7 @@ This page lists sessions for each day. To compare across rooms, please visit [th
 
 > :fontawesome-solid-users: [Room R380](maps_venue.md#__tabbed_1_1) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room R380](maps_venue.md#__tabbed_1_1)
 
-> :fontawesome-solid-person-chalkboard: [Thursday 16:30 - 18:30](sessions_comparison.md#__tabbed_3_6) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room Poster Hall](maps_venue.md#__tabbed_1_1)
+> :fontawesome-solid-person-chalkboard: [Thursday 16:30 - 18:30](sessions_comparison.md#__tabbed_3_6), [Friday 11:15 - 11:30](sessions_comparison.md#__tabbed_4_4) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room Poster Hall](maps_venue.md#__tabbed_1_1)
 
 ### [Session 2.1: Volcano seismology and acoustics: new approaches in monitoring, modelling and interpretation](sessions/session-2-1.md)
 
@@ -327,6 +328,12 @@ This page lists sessions for each day. To compare across rooms, please visit [th
 
 > :fontawesome-solid-person-chalkboard: [Friday 16:30 - 18:00](sessions_comparison.md#__tabbed_4_6) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room Poster Hall](maps_venue.md#__tabbed_1_1)
 
+### [Session 6.6: Life in volcanic environments: Human and Environmental Health impacts of volcanogenic contaminants](sessions/session-6-6.md)
+
+> :fontawesome-solid-users: [Room R290](maps_venue.md#__tabbed_1_1) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room R380](maps_venue.md#__tabbed_1_1)
+
+> :fontawesome-solid-person-chalkboard: [Monday 16:30 - 18:30](sessions_comparison.md#__tabbed_1_6), [Friday 16:30 - 18:30](sessions_comparison.md#__tabbed_4_6) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room Poster Hall](maps_venue.md#__tabbed_1_1)
+
 ### [Session 6.7: Advances in volcanic hazard and risk assessments and the quantification of associated uncertainties](sessions/session-6-7.md)
 
 > :fontawesome-solid-users: [Room S160](maps_venue.md#__tabbed_1_2) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room R380](maps_venue.md#__tabbed_1_1)
@@ -344,6 +351,10 @@ This page lists sessions for each day. To compare across rooms, please visit [th
 > :fontawesome-solid-users: [Room R290](maps_venue.md#__tabbed_1_1) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room R380](maps_venue.md#__tabbed_1_1)
 
 > :fontawesome-solid-person-chalkboard: [Friday 16:30 - 18:00](sessions_comparison.md#__tabbed_4_6) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room Poster Hall](maps_venue.md#__tabbed_1_1)
+
+### [Session 8.1: The future of volcanology, a bundle of sessions organized by the Early Career Researchers of IAVCEI](sessions/session-8-1.md)
+
+> :fontawesome-solid-users: [Room R380](maps_venue.md#__tabbed_1_1) &nbsp; &nbsp; • &nbsp; &nbsp; :fontawesome-solid-map: [Room R380](maps_venue.md#__tabbed_1_1)
 
 ---
 

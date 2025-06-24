@@ -18,13 +18,13 @@ Science communication is more than just outreach — it's a **dynamic bridge** b
 | Time | Session | Authors     | Title                                |
 |-----------|---------|-------------|--------------------------------------|
 | 12:00 - 12:30       | [S7.4](../sessions/session-7-4.md)   | Jonathan LEMUS   | [Should I flow or should I blow? That's important to know!](../abstracts/7-4-17.md) |
-| 12:30 - 13:00       | [S7.4](../sessions/session-7-4.md)   | Lucia DOMINGUEZ  | [Will my house resist to volcanic hazards? Let's be prepared!](../abstracts/7-4-5.md) |
+| 12:30 - 13:00       | [S7.4](../sessions/session-7-4.md)   | Lucia DOMINGUEZ  | [Will my house resist to volcanic hazards? Let's be prepared!](../abstracts/7-4-6.md) |
 | 13:00 - 13:30       | [S7.4](../sessions/session-7-4.md)   | Volcanologists   | Ask a volcanologist |
 | 13:00 - 13:30       | [S7.4](../sessions/session-7-4.md)   | Jonathan LEMUS   | [Should I flow or should I blow? That's important to know!](../abstracts/7-4-17.md)  |
 | 13:30 - 14:00       | [S7.4](../sessions/session-7-4.md)   | Volcanologists   | Ask a volcanologist |
-| 13:30 - 14:00       | [S7.4](../sessions/session-7-4.md)   | Lucia DOMINGUEZ  | [Will my house resist to volcanic hazards? Let's be prepared!](../abstracts/7-4-5.md) |
+| 13:30 - 14:00       | [S7.4](../sessions/session-7-4.md)   | Lucia DOMINGUEZ  | [Will my house resist to volcanic hazards? Let's be prepared!](../abstracts/7-4-6.md) |
 | 14:00 - 14:30       | [S7.4](../sessions/session-7-4.md)   | Jonathan LEMUS   | [Should I flow or should I blow? That's important to know!](../abstracts/7-4-17.md)  |
-| 14:30 - 15:00       | [S7.4](../sessions/session-7-4.md)   | Lucia DOMINGUEZ  | [Will my house resist to volcanic hazards? Let's be prepared!](../abstracts/7-4-5.md) |
+| 14:30 - 15:00       | [S7.4](../sessions/session-7-4.md)   | Lucia DOMINGUEZ  | [Will my house resist to volcanic hazards? Let's be prepared!](../abstracts/7-4-6.md) |
 | 15:00 - 15:30       | [S7.4](../sessions/session-7-4.md)   | Lara MANI | [Echoes of Eruptions: Humanity’s Story in the Shadow of Volcanoes](../abstracts/7-4-20.md) |
 | 15:30 - 16:00       | [S7.4](../sessions/session-7-4.md)   | Lara MANI | [Echoes of Eruptions: Humanity’s Story in the Shadow of Volcanoes](../abstracts/7-4-20.md) |
 | 16:00 - 16:30       | [S7.4](../sessions/session-7-4.md)   | Lara MANI | [Echoes of Eruptions: Humanity’s Story in the Shadow of Volcanoes](../abstracts/7-4-20.md) |
@@ -38,7 +38,7 @@ Science communication is more than just outreach — it's a **dynamic bridge** b
 | Time | Session | Authors     | Title                                |
 |-----------|---------|-------------|--------------------------------------|
 | 12:00 - 12:30       | [S7.4](../sessions/session-7-4.md)   | Jonathan LEMUS   | [Should I flow or should I blow? That's important to know!](../abstracts/7-4-17.md) |
-| 12:30 - 13:00       | [S7.4](../sessions/session-7-4.md)   | Lucia DOMINGUEZ  | [Will my house resist to volcanic hazards? Let's be prepared!](../abstracts/7-4-5.md) |
+| 12:30 - 13:00       | [S7.4](../sessions/session-7-4.md)   | Lucia DOMINGUEZ  | [Will my house resist to volcanic hazards? Let's be prepared!](../abstracts/7-4-6.md) |
 | 13:00 - 13:30       | [S7.4](../sessions/session-7-4.md)   | Volcanologists   | Ask a volcanologist |
 | 13:00 - 13:30       | [S7.4](../sessions/session-7-4.md)   | Massimo CHIARADIA | [How our phones are connected to volcanoes? Come and see how the largest copper treasures of the Earth form!](../abstracts/7-4-13.md) |
 | 13:30 - 14:00       | [S7.4](../sessions/session-7-4.md)   | Volcanologists   | Ask a volcanologist |
@@ -77,7 +77,7 @@ Science communication is more than just outreach — it's a **dynamic bridge** b
 | 13:00 - 13:30       | [S7.4](../sessions/session-7-4.md)   | Volcanologists   | Ask a volcanologist |
 | 13:00 - 13:30       | [S7.4](../sessions/session-7-4.md)   | Jonathan LEMUS | [Should I flow or should I blow? That's important to know!](../abstracts/7-4-17.md) |
 | 14:00 - 14:30       | [S7.4](../sessions/session-7-4.md)   | Volcanologists   | Ask a volcanologist |
-| 14:00 - 14:30       | [S7.4](../sessions/session-7-4.md)   | Lucia DOMINGUEZ  | [Will my house resist to volcanic hazards? Let's be prepared!](../abstracts/7-4-5.md) |
+| 14:00 - 14:30       | [S7.4](../sessions/session-7-4.md)   | Lucia DOMINGUEZ  | [Will my house resist to volcanic hazards? Let's be prepared!](../abstracts/7-4-6.md) |
 | 14:00 - 14:30       | [S7.4](../sessions/session-7-4.md)   | Jean-Marie PRIVAL   | [From appearance to processes: What volcanic rock textures tell us about their formation](../abstracts/7-4-15.md)|
 | 14:30 - 15:00       | [S7.4](../sessions/session-7-4.md)   | Jean-Marie PRIVAL   | [From appearance to processes: What volcanic rock textures tell us about their formation](../abstracts/7-4-15.md)|
 | 15:00 - 15:30       | [S7.4](../sessions/session-7-4.md)   | Lara MANI   | [Echoes of Eruptions: Humanity’s Story in the Shadow of Volcanoes](../abstracts/7-4-20.md) |

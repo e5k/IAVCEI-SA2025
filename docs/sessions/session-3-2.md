@@ -49,7 +49,7 @@ search:
 
 :fontawesome-solid-clock: Tuesday, 14:30 - 14:45
 
-### [Numerical Investigation of Magma Ascent in Volcanic Conduits: A 3D FEM Approach](../abstracts/3-2-7.md)
+### [WITHDRAWN -Numerical Investigation of Magma Ascent in Volcanic Conduits: A 3D FEM Approach](../abstracts/3-2-7.md)
 :fontawesome-solid-person: ^^Emanuele^^  Caruso^1^, Silvia Massaro^2^, Alessio LaVecchia^1^, Antonio Costa^2^, Roberto Sulpizio^1^
 
 :fontawesome-solid-clock: Tuesday, 14:45 - 15:00
